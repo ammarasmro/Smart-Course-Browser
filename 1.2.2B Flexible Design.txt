@@ -1,0 +1,57 @@
+[MUSIC] Next, let's examine the principles
+that focus on flexible design and adapting to change. As I've said before, change is
+inevitable in software development. You need to plan your project in such
+a way that change is not detrimental. A good way to make your product
+more responsive to change is to have a flexible design and
+an adaptable process. I'll start off this category
+with the 4th principle. It is where changing requirements. This will be discussed in more
+detail in the client needs and software requirements course. It states, welcome changing
+requirements even late in development. Agile processes harness change for
+the customer's competitive advantage. Change will ultimately create a better
+product, it'll satisfy your client and it'll give your product
+that competitive edge. The next principle speaks
+to good development. It states, continuous attention
+to technical excellence and good design enhances agility. Having readable, simple code and more flexible designs will allow
+changes to be easily implemented. Having a good design can let you know what
+components are dependent on each other. The next principle you and I will examine
+is about sustainable development. It states, agile processes
+promote sustainable development. The sponsors, developers, and users should be able to maintain
+a constant pace indefinitely. If you have ever worked
+in software development, you are probably familiar with
+the unfortunate development push to get things completed just before a deadline. This inconsistent pace leads to
+burnt out development teams. This will have a negative
+impact on projects success. And we've made it to the halfway mark. Let's keep moving forward and talk about the 7th principle,
+which refers to simplicity. It states simplicity, the art of
+maximizing the amount of work not done, is essential. This does not mean that Agile
+is about delivering less. It means that Agile is about
+delivering what is essential and reducing unnecessary work. This means writing less code and
+documentation, and focusing on delivering a high-impact
+product that is as simple as it can be. Sam is one of the developers
+on your development team. He is obsessed with the agile
+concept of simplicity. The software code he
+writes is very minimal. It does the work it is supposed to do,
+but without any unnecessary or complicated code. He also doesn't add comments
+to document his code. Sam thinks that the team should
+only develop the essential features that make the product function, and
+they shouldn't waste their time on the flashy features that the client
+believes will add value to the product. But that he deems as useless. He refuses to participate in
+elaborate documentation, but will write notes on how he developed
+the feature, any keynotes and a brief training document for
+the end user. Which of his practices, if any, do you think actually follow the concept
+of simplicity from the Agile Manifesto? A, minimal code that satisfies
+the desired functionality. B, no comments in the code. C, only developing essential features. And/or D, essential documentation
+over elaborate documentation. Sam's view of simplicity is not exactly
+what the Manifesto suggests but he's right in some aspects. Minimal code is a great way
+to focus on simplicity. Comments in the code are useful to explain
+the rationale for a particular solution. Using comments can make code easier
+to share with other developers. It is an easy way to add a small but effective amount of
+documentation to a project. Also, the team should develop features
+not based on their own criteria of what is important, but
+what is going to satisfy the client. If the features will add
+value to the product and it's what the client needs,
+then it should get implemented. As a product manager you may need to
+explain why certain features add value. However, his documentation style is a
+great way to get the essential information to the right people. There may not be a need for
+comprehensive documentation. Short and simple documentation might
+encourage people to actually read it. Therefore, A and
+D are the correct answers.

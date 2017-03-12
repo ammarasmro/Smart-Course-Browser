@@ -1,0 +1,40 @@
+[MUSIC] The agile value statements are broad. So the manifesto outlines 12 principles
+that elaborate on the values and give you some more specific
+guidelines to follow. Agile methodologies apply tools and practices to ensure that
+these principles occur. So now, let's look at each of
+these 12 principles individually. I've grouped the principles
+into three categories. They are, Delivering Working Software,
+Flexible Design and Adapting to Change, and Collaborative
+Communication and Organization. So let's look at these
+principles together. Our first category contains principles
+focused on Delivering Working Software. Working software is a key aspect of Agile. When teams focus on delivering working
+software, it drives development. Even in the early phases of development,
+each delivery of working software becomes a working prototype that will be improved
+upon in the next round of development. A working piece of software satisfies
+the client because they get to see a demonstration of their product
+throughout the entire process. So, let's begin with
+their first principle. It states, "Our highest priority is to
+satisfy the customer through early and continuous delivery of valuable software". In this principle,
+the term valuable is important. You need to ask your client what
+they determine as valuable. The features that your client values
+the most become the highest priority for your development team. The second principle is about
+frequency of deliveries. It states, "Deliver working software
+frequently, from a couple of weeks to a couple of months with a preference
+to the shorter timescale". Think about it this way. The more frequent your
+software delivery is, the more opportunity your client has
+to provide input on development. Now, let's look at our third principle. It states, "Working software is
+the primary measure of progress". Since your team will be focused
+on delivering working software, your progress should be measured by that. When I mention working software,
+it implies a sense of completeness. In Agile, a feature should
+only be considered complete when all the code has been written,
+tested and documented. You need to make sure that your
+development team is completing features instead of having many started,
+but few that are actually done. I've already mentioned that
+software is constantly changing. This is something that you
+must be prepared to face. Having a change-friendly project means
+that your project is easily adaptable to change. Which of the following do you think are
+good ways to make your software product more change friendly? You may choose more than one answer. A. Frequent client communication. B. Neat, commented source code. C. Continuously reviewing and
+improving your project. D. Updated, prioritized list of features. And, or
+E. Development team that is open to change. These are all ways that you can make
+your project more change friendly. We will be reviewing these practices
+in more detail throughout this specialization.

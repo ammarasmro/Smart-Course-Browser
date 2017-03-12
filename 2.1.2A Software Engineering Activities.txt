@@ -1,0 +1,67 @@
+[MUSIC] The next activity is allocating resources. I mentioned in the first
+module of this course, that resources are anything that improves,
+advances, or funds a project. This could be things such as time,
+money, or equipment. The allocating resources
+activities includes planning and scheduling staff resources. This means breaking down the work
+schedule and assigning tasks. Making measurements is another
+important project management activity, which involves tasks like defining,
+calculating and analyzing metric data. Metrics are used to track and
+asses the product and/or the process. These metrics could measure the density of
+defects in the product, the rate at which your team is completing tasks, the number
+of features complete, and much more. You will learn more about metrics in
+the course on reviews and metrics for software improvement. This leads to the next
+activity of Improving Process. It is important for you to recognize that, like the product, improvements can
+also be made to the process itself. It is just as important for you to test
+and review the process, as it is for your development team to test and
+review the product. You will be able to apply some of
+the results from your metric data here, so that at the next calculation
+your process will score better. Kevin is a software product manager for
+a development team that is working on an ordering app for
+local takeout restaurants. He has been at home with the flu for
+the last week. When he returns he wants to know which
+of the project management activities have been completed while he was away. He looks around the office and sees
+a schedule of tasks to be completed and a risk plan dated with yesterday's date. He then logs onto his computer and sees
+that new task development rates have been entered, and that
+the Progress Tracking Chart is up-to-date. Which of the following activities
+does Kevin have to complete? A. allocating resources,
+B. managing risk, C. performing estimates, or
+D. making measurements? An activity is complete when all
+input work products are consumed and output work products are produced. Iteration schedules, risk plans,
+and progress tracking charts are all output work products for
+project management activities. Task time estimates are an input work
+product for performing estimates. Since Kevin only had updated task
+development rates and not estimates, that activity has not yet used all it's
+inputs and produced all it's outputs. Therefore answer C is correct. Next, lets talk about
+the specification phase. This phase is often seen
+as the initial phase. The requirements for
+the product are determined in this phase. But that does not mean that it only
+occurs at the beginning of development. The specification phase is
+revisited often, to update and improve the requirements for the product,
+for the rest of development. Activities in the specification phase
+are covered in the course on software requirements and client needs. The specification activities include,
+identifying ideas or needs, eliciting requirements,
+expressing requirements, prioritizing requirements,
+analyzing requirements, managing requirements and
+formulating potential approaches. Now let's take a closer look
+at some of these activities. Identifying ideas or needs is a very important
+activity in software development. Without an idea,
+there is no product to develop. Taking time to really think about
+the product will help to create great software. Once you have an idea, the next step
+is to work on the requirements. There are five requirement activities. Eliciting requirements, expressing
+requirements, prioritizing requirements, analyzing requirements,
+and managing requirements. You will revisit these requirement
+activities in more detail in the Software Requirements and
+Client Needs course. Once you have your requirements in place,
+you are ready for formulating potential approaches. You are a product manager working for
+a chain of coffee shops. Your client wants your
+development team to create an app that allows end users to pay for
+their coffees with the application. You are working on the formulating
+potential approaches activity with your development team. What would an input work product be for
+this activity? A. Estimations, B. Defined metrics, C. Internal documentation, or
+D. Backlog of requirements. You will use all of these work products
+at some point in the development process. Estimations are commonly used as
+inputs when creating schedules. Defined metrics are used as input work
+products when you are calculating and analyzing metrics. Internal documentation is used when
+developing executable code and tests. You will use the backlog of requirements
+to formulate potential approaches, since you need to know exactly
+what you are developing. Therefore, D is the correct answer.

@@ -1,0 +1,35 @@
+[MUSIC] Hi, I'm Ken Wong. Welcome to the Software Processes and Agile Practices Course within the software
+product management specialization. This course will provide fundamental
+elements to the specialization while serving one leg in inukshuk the that depicts
+the structure of our specialization. In this segment, I'll give you
+a preview of what you will learn. while describing the general format
+and objectives for the course. In the introductory course of this series, I said that making better
+software involves three goals. These goals are the right product
+done right and managed right. I also said that developing
+a great software product requires the coordinated
+work of many people. But what helps connect
+your goals with your people? The solution is processes and practices. In order to avoid project chaos you need
+to introduce structure and discipline. In this course you will learn how software
+projects are organized using processes you'll also learn about practices that can help you
+to achieve goals for better software. There are four modules in this course. In the first module Morgan Patzelt will
+explain what a software process is. She'll describe how it breaks
+down into phases, activities, and tasks that'll help you to organize work. If you're not familiar
+with software development, don't worry, she'll also describe
+key activities in making software. In the second module, Bradley Poulette will describe
+a series of software process models. He'll cover these models as they evolve
+from earlier linear ones to modern iterative and parallel models. He will also talk about different
+forms of software prototyping, which will help you to deliver a product
+using a cycle of more refined versions. This module will help you to choose
+from different process models and prototyping strategies, and
+to customize them for your project. In the third module, Morgan returns to
+guide you through specific agile practices which tend to work best with
+modern software processes. She'll cover two popular
+agile methodologies. Extreme programming which is
+focused on development and SCRUM which is focused on management. In the fourth and final module
+Bradley will talk about the principles of Lean software development which
+will compliment the Agile principles. Lean will help you to reduce
+waste in your project and provide solutions to improve the
+overall quality of your product. He will also talk about Kanban as a way to
+visualize the progress of your tasks. By the end of the course you'll gain
+a wide repertoire of processes and practices. You'll be able to apply them to organize
+people in your next project, and to make a better software product.

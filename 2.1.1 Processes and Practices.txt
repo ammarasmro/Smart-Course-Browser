@@ -1,0 +1,72 @@
+[MUSIC] Welcome to the Software Processes
+& Agile Practices course. This course is part of the Coursera
+specialization on Software Product Management. If you're joining us for
+the first time, I'm Morgan Patzelt and I'll be one of your guides
+through this course. In this course, Bradley Poulette and I
+are going to introduce several processes, practices and methodologies to develop and
+manage software products effectively. The first thing that I'll be
+talking about is process. You are introduced to why we uses
+processes in the introduction course. Now, you'll be learning
+about what a process is and how using agile practices
+can complement them. I'll also be talking about various
+software engineering activities in this module. So let's jump right into it. Processes are a large part
+of software development. In fact,
+processes tend to emerge naturally. At a high level, a process organizes
+the development of a software product into distinct phases or stages. In general, you can think of a product
+proceeding from one phase to the next, with certain kinds of work
+expected in each phase. As you will discover in this course,
+the process of software development is not like following a recipe
+from beginning to end. You need to make refinements,
+improve on ideas, try experiments, and perhaps even backtrack to come to
+an acceptable working product. Software can last a long time,
+and undergo many changes. Think about how often your smart
+phone apps require an update. Each time you get a notification
+to update an app, that's new version of
+the product being released. As you can see, further development and testing occur even after the initial
+release of a working product. Many of the processes that we
+talk about in this specialization are life cycle processes. This means they organize
+the entire life of the software, from the initial conception of the idea,
+to the eventual retirement of the product. However, processes do not have to
+represent the entire life of a product. There can be a sub-process
+within a life cycle process. For example, you could have
+a sub-process for finding and fixing bugs within a product. Regardless of wether it's
+a life cycle process or a sub-process, the structure is the same. So let's look at this structure now. Processes are organized into phases or
+stages. Over the years, a number of different life
+cycle process models have been proposed. For a life cycle process, depending on the process models, these
+phases can be known by different names. These phases may be organized to run
+in sequence iteratively or in parallel. Examples of phases for a life cycle
+process are: specification, design and implementation, and
+verification and validation. The specification phase is where
+the idea for the product is conceived. It is also where requirements
+are elicited and expressed. The design and implementation phase
+is where the design of a product and the development occurs. The verification and validation phase is
+where the product is assessed to make sure that it works the way it should and
+that it meets the client's needs. You and your development team have been
+commissioned to work on a database for a major bank. For obvious reasons, your client
+is very concerned with security. You and your team come up with many
+security features that could be implemented into the product. In what phase of a software life
+cycle process would this task occur? A. Specification, B.
+Design and Implementation or C. Verification and Validation? Defining the features that will
+be implemented into the product is part of the specification phase. Therefore, A is the correct answer. Let's break down processes even further. Phases are composed of activities. And activities are groups
+of related tasks. An example of an activity
+is creating tests. All tasks that are related to
+creating tests would be classified under that activity. These tasks could include writing test
+framework code, as well as designing and writing tests. We will see examples of software
+engineering activities in detail in the next lesson. Like I just said,
+an activity is a group of related tasks. So let's look specifically at these tasks. Tasks are where the real work gets done,
+no matter what process is used. Tasks are small manageable steps
+of the project to be completed. They are the building blocks for
+completing an activity and ultimately, the entire phase of a process. All elements of completing work
+have some relationship to tasks. Examples of tasks include writing a piece
+of source code, designing a feature, writing documentation, installing
+a library, or testing a feature. Tasks may have dependencies
+on other tasks. That is, a task that depends
+on another task, must wait for that task to be completed. [SOUND] Dependencies imply
+a necessary order upon tasks. For example,
+you cannot take your dog for a walk, unless your dog is wearing a leash. And you cannot attach a leash,
+unless your dog is wearing a collar. Therefore, walking your dog depends on you
+attaching a leash and attaching a leash, depends on you attaching a collar. Or, in the context of software
+development, you cannot pass a test for a feature until the source
+code is written. And you cannot write the source code
+until the feature has been designed. Therefore, passing a test for a feature
+depends on source code being written, which depends on designing the feature.

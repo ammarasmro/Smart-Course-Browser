@@ -1,0 +1,70 @@
+[MUSIC] Now we know what a process is. But how can we use them more effectively? Practices are tactics that
+software product managers use to make processes execute smoothly. Practices provide guidelines for aspects of development,
+such as how to schedule and organize tasks, prevent wasted resources,
+and monitor work product development. There are a variety of
+practices that you can use. We'll be covering many of these
+practices in this course. Some examples of practices are planning
+what features go into which release, estimating the duration of tasks,
+and running brief daily meetings. These practices are often
+gathered into a methodology. A methodology is a set of practices. Methodologies based on
+the agile manifesto are agile methodologies which
+contain agile practices. Scrum is an example of
+an agile methodology. Think of it this way. The agile manifesto provides a philosophy. And an agile methodology provides
+the specific guidelines and rules. Regardless of what practices you use, they
+are all intended to provide structure for what's involved in a project. This structure can help you effectively
+plan your project, meet deadlines, improve communication, track progress,
+and ultimately deliver better software. For example, in the specification phase,
+there are many practices that outline how to elicit and express your
+requirements from your client. In the design and implementation phase, you'll see many practices that
+guide designing and planning. There are even more practices that
+suggest how development should occur. These can include how to make your
+project more flexible to change and how to track development. These practices can establish if you
+are on schedule with your project. Tracking lets you know early on if you
+are falling behind your timelines. These practices can also demonstrate how
+much of the project is completed and how much work remains. This not only provides information for
+your development team, but the tracking gives your
+project transparency. You can quickly and easily show
+your client your project status as well as manage
+the scope of the project. There are also many practices outlined for
+the verification and validation phase. Many methodologies encourage testing and
+reflection. This ensures that the product works
+the way it was supposed to and it is exactly what the client intended. You and your development team are working
+hard to implement some agile practices into your development. One practice you chose to adopt is
+delivering a working prototype to your client every two weeks for feedback. What phase of a process
+does this practice belong? A. specification, B. design and implementation, or C.
+verification and validation. Providing a working product to your client
+every two weeks is an excellent way to ensure that your team is delivering
+what your client expects and that they are satisfied with the product. This is called validation. Therefore, the correct answer is C,
+verification and validation. Getting down to the task level, there are many practices that suggest
+how to schedule tasks effectively. There are also practices that establish
+effective working relationships between the roles involved in development. Most methodologies encourage and facilitate open communication among
+clients, product managers, and developers. Having open communication among developers
+allows for efficient development since expectations are clear and everyone
+knows what everyone else is doing. Adopting good practices will
+also reduce wasted resources. This waste might be time,
+materials, or money. Having effective planning and communication prevents work from being
+completed by more than one person. It also prevents developers from
+producing a feature that might not be exactly what the client intended. This helps to keep your
+project on schedule, which helps to keep it on budget. The great thing about processes and
+practices is that they are flexible and customizable. You can take aspects of
+various processes and practices to create something
+that meets all your needs. They can also be improved and
+developed over time. Processes and
+practices have many benefits, and they are an invaluable tool for
+product managers. By learning many different
+software processes and practices, you'll be able to generate or
+select a process and a set of practices that works well for
+you and your team. To recap, we defined the process as a way
+to organize the development of a software product into distinct phases or stages. A process can be a life cycle process, in which case it models the entire
+life of a software product. Or it can be a sub-process
+within a life cycle process. Processes are organized into phases. For life cycle processes,
+examples of phases are specification, design and implementation, and
+verification and validation. Each phase is composed of
+associated activities. An activity is a group of related tasks. And tasks relate to roles,
+work products, and resources. Agile practices are guidelines that
+can be applied within a process. They have proven benefits such
+as increased communication, tracking of project progress,
+risk management, and reduced waste. In this lesson, we briefly talked about
+how work is organized in a process. Next we will be examining software
+engineering activities in more detail so you can get a better idea of the entire
+software development process. See you there.

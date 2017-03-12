@@ -1,0 +1,103 @@
+[MUSIC] Danielle is the product manager
+working with a five-person development team to create a payroll application that
+allows small business owners to pay their employees. After delivering the prototype, the client sends out a nasty email to
+the development team saying that they found a bug in the application that
+calculates the wages incorrectly. The client is very upset. This bug would cost the business
+owners a great deal of money, and employees would end up getting
+more money than they have earned. Timmy and Maria were the programmers who
+co-wrote the unit test for this feature. Steven and Maria were the programmers
+who pair programmed the source code. Danielle, the product manager,
+conducted the acceptance test for the product before the release. Who is to blame for this error? Choose all that apply. A, Danielle, B, Timmy,
+C, Maria, D, Steven, and/or E,
+the other two developers on the team. A practice of extreme programming
+is collective ownership. This means that all members of the team
+are responsible for errors that occur. Therefore, everyone is at fault. That means A, B, C, D, and
+E are the correct answers. Had the client been very
+satisfied with the product, the entire team would get credit for
+the success. I said earlier that extreme
+programming is traditionally described by 12 basic practices. However, depending on what
+resource you are looking at, they could be expressed differently. Don Wells is the author of the first
+version of Extreme Programming Rules. Instead of the 12 practices,
+he lays out 29 extreme programming rules. Many of these rules overlap with
+the 12 we just went over, or they combine many practices from Scrum. There are however a few management
+practices that do not fit into either of those categories,
+that are interesting to note. The first practice is give a team
+a dedicated, open work space. Think about the work spaces that
+you have previously worked in. Do you think they enhanced your
+productivity and teamwork? XP suggests that the work space have
+multiple computers that belong to no one. They should be located in the middle
+of the room and not along the walls. This encourages the development
+team to work together. There should also be a meeting table
+with white boards where your teams can collaborate and brainstorm. The next practice is move people around. This encourages communication and
+flexible work relationships. This means that everyone
+knows how to develop and operate all parts of the product. Think about how detrimental
+it will be to your project if there is only one person
+who knows how a feature works. What happens when they leave? You will be left with
+a void in your development. An alternative option to moving
+people around would be to heavily document features. However, this is not the agile way. You wouldn't have a professional
+soccer team without a backup goalie. Likewise, the success of your project
+should not depend on one person. In sports or development, the most useful team members are the ones
+who are good at multiple skills. The final management practice
+is about changing XP itself. That is, fix XP when it breaks. You may have noticed that it says
+when it breaks, and not if it breaks. That's because it is going to break. It's not going to run smoothly throughout
+the entire life cycle of your product. Not all of the practices of XP
+will work well with your team. When something doesn't work, change it. You're going to want to have your team
+follow the rules until they break. Frequent project retrospective
+meetings are a great way to determine what's working and what's not. You have been hired by a company
+that say they have tried to implement the extreme
+programming methodology exactly. You walk into the workplace and
+see a maze of cubicles. As you walk around the work space and
+peek into cubicles, you see pairs of programmers
+working together. You pop into a cubicle and ask the
+developers where they can find the client. One developer hands you a business card
+that has the client's phone number on it. He says you can leave a message there and
+the client will get back to you. You go into the next cubicle and ask the two programmers working
+there when the next release is due. They tell you that the releases
+are due every second Friday. They have a release coming up this Friday. You ask these programmers
+what they are working on. They explain that they
+are the database team, and that they exclusively work on
+maintaining and building the database. You realize that there are many areas of
+extreme programming that they are not following properly. What are some areas of development that
+you are going to need to change in order to have extreme programming
+running precisely in this office? A, the workspace, B, pair programming,
+C, client availability, D, small, frequent releases and/or E,
+developer versatility. An Extreme Programming workspace
+environment is open and encourages collaboration. A maze of cubicles does not
+align with that practice. The client should also be
+available at all times. A hard-to-reach client does not
+encourage effective communication. Finally, developers should move around and
+not specialize in a feature. Having two developers exclusively working
+on the database does not comply with extreme programming. Therefore A, C, and
+E are the correct answers. This company is not completely off base. They do engage in pair programming and deliver small, frequent releases, which
+are good extreme programming practices. Now that you are well
+versed in the rules of XP, let's talk about some
+of the downfalls of XP. One downfall of XP is the need for
+the all or nothing approach. If you are adopting XP for
+your development team, you are encouraged to adopt all the rules
+of XP to get the full benefits. Yes, I did mention that you can change
+aspects of XP that are not working. But at what point is it still
+considered extreme programming? What happens when half the practices
+don't work for your team? The individual practices do not have as
+much value as the overall methodology. But sometimes, implementing all of
+the practices is just not practical or possible. Another weakness of XP is that it is
+designed for small development teams. What happens when you have over twenty
+people on your development team? You are going to run into many issues with
+collective ownership and integration. There is also a lack of
+upfront planning with XP. Compared to other methodologies, XP does
+not encourage real up front software architecture planning, and this could
+lead to a lot of reworking in the future. And what about pair programming? Sure it has a lot of benefits, but it has not been as widely
+adopted as other practices. I can guarantee it will
+not work with all teams. Personality conflicts
+will play a huge factor. And finally, it's difficult
+to arrange an on-site client. It's uncommon that a client be made
+available for the time required by XP. It's often unrealistic to expect the
+client to be there every time an issue or question arises. In an ideal world, yeah, it would be
+awesome for a client to always be there. But this is real software development,
+where things are often far from ideal. Extreme programming outlines many great
+practices for software development. But the process also has many downfalls. As a product manager, you're going to need
+to find practices that work for your team. You'll need to experiment,
+maybe XP will work perfectly for you, and maybe it won't. That's why you must examine
+many methodologies, so that you can discover the right one for
+your team. You need to gather data to support
+which practices can work for you. On that note, in the next lesson you will get to move
+onto another methodology called Scrum.

@@ -1,0 +1,57 @@
+[MUSIC] So those are the fundamentals of
+the Lean Software Development methodology. Really what it boils
+down to is reducing waste while improving the quality
+of your product. These principles are the ones which
+have been outlined in Mary and Tom Poppendieck's book written in 2003. However, there are other principles,
+which have been added as the community of Lean software developers,
+evolved over time. One of these additional principles
+is to use the scientific method when building a system. So instead of carrying on with a project's
+design using hunches, guesses, and experience, this principle encourages developers to
+base their development off real data. As a software product manager, you'll need
+to initiate experiments to test ideas, and collect data. Analyzing and acting upon this data,
+allows software developers and clients, to make informed
+decisions about the product. You gain credibility by backing
+potential decisions with data. This, of course, works well with the decide
+as late as possible principle. Another, additional principle,
+is encouraging leadership. An extension on the principle
+of empowering the team, encouraging leadership, aims to bring
+out the best in each person on the team. Encouraging leadership means enabling
+initial individual developers to be courageous, innovative,
+inspirational, and collaborative. So those are the Lean software
+development principles as a whole. You may find them by many names over
+the web, but the idea is still the same. Again, these principles are: eliminating
+waste, amplifying learning, deciding as late as possible,
+delivering as fast as possible, empowering the team, building
+integrity in, and seeing the whole. At the end of Poppendieck's book,
+is written a warranty. This warranty says, Lean principles
+are warranted to be tried and proven in many disciplines, and when properly applied, they are warranted
+to work for software development. Proper application means that all of
+the Lean principles are employed, and that thinking tools are used to translate
+them into agile practices, appropriate for the environment. This warranty is invalid, if the practices
+are transferred directly from other disciplines or
+domains, without thinking. Or if the principles of empower the team
+and build integrity in, are ignored. So while it may be easy to see
+this process as simply a philosophy for reducing waste and improving your product,
+it's not enough to apply typical management practices,
+in order to achieve these results. At the core of Lean may be this idea of
+reducing waste and improving your product. However, encouraging your team to
+build a product the way they want to, and ensuring that proper
+programming practices are followed, are a large part of that, and
+they should not be ignored. While I talked about Lean, did it seem apparent to you that a lot
+of these principles are very Agile like? Well, Lean Software Development
+follows a lot of Agile principles. In fact, Poppendieck's book is entitled, Lean Software Development:
+An Agile Toolkit. In the book, Poppendieck says
+that Lean Software Development further expands the theoretical
+foundations of Agile software development. By applying well known and accepted
+Lean principles to software development. But, it goes further. By providing thinking tools to
+help translate Lean principles, into Agile practices, that
+are appropriate for individual domains. So, Lean is a tool kit. It's a methodology. A set of practices that allow
+you to create better software, and have happier clients. It encourages fast paced iterative
+development, client interactions, and the use of proven software
+development techniques, to be successful. Lean is powerful, and it's useful, whether
+your organization is big, or small. So keep these Lean principles in mind, as
+you develop as a software product manager. It's likely that you'll see them used
+more and more in the coming years, and it will be useful for
+you to have some knowledge about them. So that's Lean. In the next lesson, I'm going to
+briefly show you about one practice, which is frequently used
+alongside SCRUM and Lean, Kanban. I'll see you there.

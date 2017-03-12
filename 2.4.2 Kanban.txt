@@ -1,0 +1,194 @@
+[MUSIC] Welcome to the second
+lesson of this module, the last one in our Software Processes and
+Agile Practices Course. In the last lesson,
+I went over the main themes and principles involved with the lean
+software development methodology. I talked about how lean software
+development is a methodology that emphasizes the minimization of waste and
+increasing your product's overall quality. It's a methodology which fits well
+within the framework of Agile as well. In this lesson,
+I'm going to talk about a methodology used in lean software
+development called Kanban. As you saw in the last lesson, lean manufacturing is a methodology
+with seven principles. You can think of these principles
+as the goals of the methodology. Kanban is a methodology that was developed
+hand-in-hand with lean manufacturing. That is Kanban was designed to be
+used with lean manufacturing, but it can also be used independently of lean. If you recall from the last lesson, lean
+manufacturing started at Toyota to help them improve the quality of their products
+while minimizing production time and cost. Kanban helps lean processes to
+quantify the state of their system and achieve the ideals of
+Just-In-Time Manufacturing. On a factory floor at Toyota,
+every component is accounted for. Each component has an ID
+associated with it. This system of IDs is at the heart of what
+makes Kanban an effective methodology. When a component is taken from the factory
+floor to be used on the vehicle, the status of the component
+is updated through the ID and the supporting processes
+receive a notification. You just learned about some
+of the origins of Kanban and how it works within lean
+software development. What is the term from the manufacturing
+industry which inspired the philosophy in Kanban to do only one thing
+at a time when it's needed? A, Toyota manufacturing. B, Just-in-Time manufacturing. C, When Needed manufacturing. Or D, lean manufacturing. The answer is B,
+Just-in-Time manufacturing. While Kanban draws it's
+origins from Toyota and their lean manufacturing processes,
+the specific philosophy, which says to do one thing at a time,
+only when needed, is Just-In-Time. Imagine a set of bins
+on the factory floor. Each bin contains one component. Let's say the bins contain tires for
+this example. In Kanban, each individual tire is
+assigned a unique ID, like I just said. A factory worker takes
+one tire from its bin to install in a new car that's
+being assembled in the factory. The factory worker scans the tire's ID and
+installs it on the new car. Removing a component from the bin leaves
+that bin empty, ready to be refilled. On any other factory floor, the bin would
+simply be filled by taking another tire off the existing pile
+of manufactured tires. As we saw in the last lesson,
+that system in inefficient. It leaves room for waste,
+such as overproduction. In contrast, with Kanban,
+when a component is used, the process that replaces the component is
+notified so that a new one can be created. Basically, when a bin is emptied,
+a new component is created and placed into the bin as soon as possible. This is why this method of manufacturing
+is called Just-In-Time manufacturing, everything is done at the last
+possible moment before it's needed. This strategy of continually using and refreshing items in bins on the factory
+floor is called the pull method. When a bin is emptied,
+it creates a vacant spot. The vacant spot signals a pull
+from the later process. When applied to all activities
+on the factory floor, pulling components gives you insight
+into the state of the system. At any given time, you can see
+what is needed, where, and when. If you track when a piece of work
+passes from one phase to the next, you can determine how long it takes for
+each phase of manufacturing to complete. From that, you can easily
+calculate how long it takes for a piece of work to go through
+the entire manufacturing process. With this knowledge, you can discover
+where there are delays, how you can make effective changes, and track
+the effects of those changes over time. If you haven't already guessed, Kanban is very easily translated into
+the world of software development. All you have to do is make a few changes. For example, instead of bins, think about visualizing your
+process using a task board, with each software development activity
+represented as a column on the task board. The far left column contains all of
+the tasks sitting in your backlog. The next set of columns on the board are
+for development, then acceptance testing, perhaps an internal release phase,
+and a production release phase. This board is called the Kanban Board, a common tool used to visually
+assist the Kanban methodology. You're developing a software product for a client that connects
+a mobile app to a database. Each of these components has
+a basic set of features and an advanced set of features that can
+be built on top of the basic features. The mobile app depends on the database
+in order to be released, but a proof of concept mobile app can be
+made with just the basic features and no database connection. According to Just-In-Time manufacturing, what is the best strategy for
+developing the product? You should develop, A,
+all features of the database first, then all features of the mobile app. B, all features of the mobile app first,
+then the basic features of the database. C, basic features of the database,
+then basic features of the mobile app, followed by advanced features
+of the database and mobile app. Or D, basic feature of the mobile
+app.then basic feature of the database followed by the advanced
+features of the mobile app and database. The answer is D. Just in time manufacturing stresses
+the importance of building components only when they're needed. So if you can create a functioning
+prototype of the mobile app without a database, you're priority
+should be to do that first. If the prototype proves to be successful,
+then you can build a database and any other advanced features on top of it. The reasoning here is to discover
+flaws early in your design after building a first
+version of your product. If you would build the entire product
+before being able to test basic features, you might discover that
+those basic features weren't needed in the first place. If that's the case, then all of
+the previous work would have been wasted. In Kanban,
+all of these phases are coordinated. If a piece of work is done in one column,
+it's ready to be pulled by the next column. However, an opening must
+form in that next column to allow the piece of work to be pulled
+into that phase, continuing the cycle. This is where the concept of
+work in progress comes in. Work in progress is exactly as it sounds. It's the amount of work currently
+in development in each phase. As you practice the Kanban methodology,
+you'll find that some phases have the capacity to produce more work
+than their subsequent phases. These slower parts of the process
+are called bottlenecks, and it's important to know
+how to deal with them. A bottleneck occurs when one phase cannot keep up with the work
+created by the preceding phase. So in our car example,
+if it takes more time for the factory worker to install a tire,
+then it does for another worker to create the tires, then you end up with a
+bottleneck at the tire installation phase. So how do you address this bottleneck? There are really two ways. Ramp up production at the bottleneck or decrease production
+ahead of the bottleneck. Ramping up production at
+the bottleneck is, of course, a very productive way
+of going about things. However, the only way
+to ramp up production is by assigning more
+resources to the phase. We must not assume that those carrying
+out the activities in that phase can somehow magically output more work. We have to assume that they're operating
+at peak capacity and adjust for that. So instead of asking the tire
+installers to work faster, you must assign more tire
+installers to the task. You're developing a software
+product using Kanban. You have the following
+phases of development, which happened one after another in
+sequence, design, implementation, acceptance testing, and delivery. The amount of work that can be completed
+in each phase per week is as follows. Five units in design,
+six units in implementation, three units in acceptance testing,
+and ten units in delivery. Each of these units is a consistent
+measure of the amount of work completed. For this example,
+one unit corresponds with one requirement. According to the amount of work
+that is done in each phase, where is the bottleneck located? A, design. B, implementation. C, Acceptance testing. Or D, delivery. The answer is C. Since less work gets done in
+acceptance testing per week than in the phase that flows into it,
+your bottleneck is at acceptance testing. You just learned that increasing
+resources at the acceptance testing phase could relieve this bottleneck. But there is one other way. Short of increasing production at
+the bottleneck, you could also eliminate the unnecessary work that's getting
+done before the bottleneck, reduce the number of tires being
+manufactured before installation. This is called creating
+Work-in-Progress Limits. Effectively, you limit the amount
+of work that must wait to be pulled into the next phase. Now, we come to my
+favorite part of Kanban. What happens to those factory
+workers who are now being told not to work on more tires? Installation. On a software team,
+this is why multi-functional teams are so very important. If you run into a bottleneck at the
+testing phase, it could be very helpful to have developers that can move from feature
+development to testing when needed. So setting work in progress limits is
+the best way to manage bottlenecks on a multi-functional team. Split the difference, and
+you'll see a boost in productivity. How do you know if your change has
+made a real difference to the project? That's where cycle time comes in. Cycle time is the key metric in Kanban. It's the total time that it takes for one piece of work to go through
+one full cycle of doing the work. Cycle time is the amount
+of time it takes for a car tire to go from creation
+to installation, for example. To measure cycle time in each phase, you need to know when a piece of work
+is started and when it's finished. Then, calculate the number of hours
+between these timestamps, and you have your cycle time. This is not the amount of time developers
+spent actively doing the work, but the full amount of time
+between starting the work and finishing it,
+including when everyone's asleep. The reason for this is that it takes
+the variation out of individual effort and accommodates for reality,
+like work being restarted due to defects. It's a measure of what
+the process can handle and the quality of your practices rather
+than a measure of your team's effort. If your cycle time is decreasing, and your
+product quality is remaining constant or improving, then you're
+doing something right. Before we end,
+I want to talk about one last thing. How do you know when to
+start a piece of work? In Scrum this was done by planning
+during the sprint planning meeting. In Kanban, it's different,
+there are no planning meetings. Because work marches
+along at its own pace, needed work is constantly being taken
+from the top of the product backlog. So long as the requirements
+are always prioritized properly, the product will naturally be built
+in order of feature priority. The Kanban equivalent to Scrum's product
+owner ensures that the product owner backlog is always in proper order so when the next piece of work is pulled
+from the backlog, it's ready to go. Kanban works great alongside
+lean software development, precisely because it was made for
+lean manufacturing. It allows team to track
+their progress over time and ensures that the Just-In-Time
+development strategy is followed. This reduces waste and ensures that the
+decisions are made as late as possible. So that's Kanban in a nutshell. If you'd like more
+information on this strategy, please check out the references which
+I've included in the course resources. And with that, you've made it to
+the end of the course, congratulations. Throughout this course, Morgan and
+I covered the fundamentals of some software development processes and
+practices used in the industry today. In the first module, Morgan defined
+what processes, phases, activities, and tasks are, and
+how they relate to each other. She distinguished between life cycle
+processes and sub-processes and gave some examples of how they're made
+up of phases, activities, and tasks. She then went into detail on some
+software engineering activities. She showed examples of activities for each
+phase of a typical life cycle process. In the second module, I showed you how life cycle
+processes have evolved over time. I started with linear processes and
+made my way through the spiral, unified, and continuous delivery process models. I also touched on some
+different types of prototyping. Then, in the third module, Morgan began
+our deep dive into Agile practices. She covered some popular methodologies,
+which are used within Agile, like extreme programming and Scrum,
+and the practices that they implement. In this module,
+I talked about some variations on agile as well as an emerging software practice
+called lean software development. We talked about how Kanban is used within
+lean to track a team's progress and ensure that everyone is following
+a Just-In-Time production strategy. Morgan and
+I really enjoyed teaching this course, and I hope you enjoyed taking it just as much. This course is part of the Software
+Product Management Specialization here at Coursera. Like we said in the introduction course,
+this course and our client needs and
+software requirements courses were designed to be taken in
+whichever order you choose. Whether you're planning on moving on to
+the requirements course, or you've already completed it, and you're moving on to the
+Agile planning course, I'm looking forward to continuing this journey to better
+software and happier clients with you. See you soon.

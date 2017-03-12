@@ -1,0 +1,182 @@
+[MUSIC] Welcome back. In the last lesson I talked about
+the unified process as an example of a iterative process as well
+as a parallel process. I talked about each of
+the phases of the process. And defined some key terms,
+like phase, cycle, and iteration. Before that, I discussed another
+iterative process called spiral. Hopefully you can see that as
+I introduce these processes, each becomes more
+sophisticated than the last. We're building up to more
+advance processes, but that doesn't mean that learning about
+these simpler processes isn't important. Don't forget the analogy
+of the sledgehammer and the spike driving machine. While one may be less
+sophisticated than the other, that doesn't mean that it lacks value. In fact,
+all the processes which I have covered so far are actually quite frequently
+used in the industry today. In this lesson, I'm going to talk about
+something which applies to the spiral and unified process models,
+which we just talked about, prototypes. Of course, prototypes aren't
+limited to just these processes, so you'll see them referred to more and
+more in future lessons. There are five types of prototypes
+which I'll cover in this lesson. These five types are illustrative,
+exploratory, throwaway, incremental, and
+evolutionary prototypes. Lets start with
+the illustrative prototype. These are the most basic of prototypes. They can be drawings on a napkin,
+a brief slide show, or even a couple of index cards with
+components drawn on to them. Whatever the case,
+the point of an illustrative prototype is to share an idea using a low fidelity,
+disposable image. Illustrative prototypes help
+to get the system's look and feel right, without investing much time or
+money into developing a product. They can save a lot of time and
+development later on. You can use an illustrative prototype
+as a way to weed out bad ideas. And as a guide for development. Instead of having to imagine and
+program ideas on the fly, they can give the development team
+guidance for creating solutions. When I do prototyping,
+I personally like to mock up prototypes with the functionality which
+I plan on implementing. One of my favorite ways of doing this is
+by sketching my key features in a drawing program and tying them together
+by using a slide show editor. The prototype then ends up becoming
+a slightly more realistic example of how a product looks without
+having to expend much extra energy. You can achieve a similar result
+with features drawn on paper. You could demonstrate an idea by
+swapping out one paper screen for another, when the end user
+selects certain elements. This technique is usually
+used when time is short, and only a basic idea is needed in
+order to get the point across. You can go really far with this idea. Some prototypes go as far as faking
+their functionality by having a human control the functionality of
+the system behind the scenes. This is like the person behind
+the curtains, as in the movie, The Wizard of Oz. One of the ways which I've seen this be
+successful is on a project which used wireless communication between devices
+as a key aspect of its functionality. Writing code which allow the user to
+actually communicate wirelessly to another device will take a long time, so
+instead the development team got creative. I had a slide show
+program run each device. When one device would
+send data to another, the developers would cleverly advance
+a slide show on the other device. The development team did
+this with good enough timing that it seemed like data was actually
+been transmitted between the two devices. You can probably see why
+illustrator prototyping is coming, it takes very little time to
+flesh out the feature set. And it can give you a really good idea
+of how your product will look when it's finished. If you have more time and
+you want a more comprehensive understanding of what
+the product will look like, some teams turn to what we
+call exploratory prototyping. Exploratory prototyping
+allows you to focus just on what the products look and
+feel is. You'll also be able to determine
+the effort it takes to build that project. You build working code so
+that you can actually see what's possible. Fully expecting to throw the work
+out after learning from the process. Is this method expensive? Absolutely. It's better than finding out later that
+the product solution just isn't workable. The usual motivation behind
+exploratory prototyping is that the product developers want to
+study how feasible some product idea is. It's no longer about just looking
+at what the product looks like. It's about how realizable it
+is to develop the product or how useful the product may be before
+committing to further effort. The first version of a product, for almost
+anything, often has various problems. Because of that, why not just build
+a second versions from scratch, and toss away the first? The first version you've built is
+what's called a throwaway prototype. You should know that all is not
+lost from the first version. There could be many useful
+lessons to be learned and problems to avoid in the second version. Throwaway prototypes give you the
+opportunity to learn from past mistakes. This give you the chance to make your
+release stop or product look more rock solid than it would have been if you had
+just kept evolving from the first version. Carly just built her first
+iteration of her product and now has a first generation
+working product prototype. She intends on adding to this
+prototype in further increments. The test users are critical
+of the initial prototype. After seeing the product design they
+suggest a different approach that uses some of the features
+that were already built. What kind of prototyping is Carly using? A, Working. B, Illustrative. C, Throwaway. Or D, Incremental. The answer is D. Incremental prototyping. Carly started with a working prototype
+that was later expanded upon. The initial prototype was coded and kept, so it's not throwaway prototyping or
+illustrative prototyping. Okay, so hopefully, you don't end up with
+an unintentional throwaway prototype. The three types of prototypes which
+I just described are all prototypes which end up not being used directly
+in he final version of the product. Doesn't it make sense to re-use work
+that's been done in prototyping during actual product development? That's where incremental and
+evolutionary prototyping come into play. They let your efforts of prototyping
+carry through to your final product. The key idea is to have working
+software for each successive prototype, any of which could be released as
+a version of your software product. When you create incremental
+prototypes you build and release your product in
+increments one at a time. Incremental prototyping works in
+stages based on a triage system. All that means is that you asses
+each of the system's components and assign them a priority. Based on that priority, you then
+develop the product from the ground up. You wold develop your product from
+most important to least important. So you assign priorities to a product's
+features based on what must be done, should be done, and what could be done. You assign your core features
+to the must-do priority. Then, you assign all the features
+which would support your product but aren't absolutely critical to a should-do. Everything else that seems like
+an extraneous feature would then be assigned to the could do priority. Based on these ratings you
+would then develop your product by starting with the features which
+you assigned to the must-do priority. The resulting software product
+contains the core features and could be released as
+an incremental prototype. Then, as resources permit, you develop
+features under the should-do priority. And then features in could-do, which results in a more fully
+featured incremental prototype. Here's an example,
+you're developing a messaging app. First and foremost, you want your users to be able to
+talk to each other through the app. Anything related to that, like integrating
+the ability to find another users message, sending and receiving functions, or text
+editing, could be your highest priority. So these features would be
+assigned to the must-do priority. You might imagine that users would like
+to be able to add profile pictures or post status updates. Maybe message groups of people. These features would be considered
+the should-do functionalities. Any features like being able to change
+message fonts, send custom drawings to other users, or post links, would
+probably be assigned to the could-do. With all of these in place,
+all that's left to do is build your app! Since you prioritized your product's
+features, you can easily map out and plan your development. In fact, this idea of
+prioritizing your features and working off your plan is a basic concept,
+which you're going to see recur in the Agile Planning
+for Software Requirements course. So, you just learned about
+incremental prototyping. Let's test your knowledge and
+see what you remember. What sets incremental prototyping
+apart from illustrative, throwaway, or exploratory prototyping? You may select multiple answers. A, Incremental prototypes
+is a triage system. B, Incremental prototypes get
+discarded after they're created. C, Incremental prototypes
+do not contain any code. And/or D, Incremental prototypes
+may contain working software for the end product. The correct answers are A and D. Incremental prototypes are different from
+the previous ones which we talked about, because they allow your development
+team to create a potentially releasable product. This is done by developing features
+which have been prioritized using a triage system. The final type of prototype,
+which I'm going to talk about, is the evolutionary prototype. In incremental prototyping, you'll be
+in with a core set of features and add new features over time. In evolutionary prototyping,
+you begin with a set of all the features in basic form, and
+refine or evolve them, over time. In either case,
+the end product is a feature rich product. Let's compare this using the messaging
+app example I outlined earlier. In incremental prototyping we prioritize
+the software products features using a triage system. Then, we built successive incremental
+prototypes of the product that included the most important
+features to the least important. In evolutionary prototyping, you would
+have an early version of all the features and build successive prototypes by working
+the features until they were fully mature. For example, later evolutionary prototypes
+could make the existing features easier or more flexible to use. In the messaging app, consider a feature
+like adding a profile picture. Initially, a user might have to
+specify the path of the photo to be added to the profile. Not a very efficient way of doing things,
+but it works. In another prototype,
+that developer might allow for the user to choose the photo from
+a drop down menu of available photos. A little better but in the next prototype
+you might imagine the system to allow for drag and drop functionality. So in this way, your product evolves
+from a rudimentary working prototype to something feature rich and robust. Both incremental and evolutionary
+prototyping are ways to make working software that can be shown at regular
+intervals to gain further feedback. In practice,
+you can blend both approaches. It's a real moral boost for your development team to see the product
+as it comes together over time. All right, so you now know some of
+the different types of processes. Now, think back on what you learned in
+previous lessons about the spiral model and unified processes. Can you picture how a prototype
+would fit into these models? In a spiral model,
+imagine where you would start. Usually the place to start is
+by creating a prototype, right? You might go through the first iteration
+of the spiral model just creating an illustration of the prototype. You could scribble a few
+drawings onto the paper and get an idea of how your system will work. The same could be said for the inception
+phase of unified, couldn't it? By creating prototypes, you can better
+visualize what your product does, and therefore, make feature decisions based
+on what the product might look like. But it doesn't stop there. I'll bet you're already imagining the
+possibility of combining the illustrative prototype with an incremental or
+evolutionary prototype, and it makes sense right? Your first version is just an idea
+written on a few pieces of paper. Then, to further test your idea,
+you'll outline some key features and start building. Before long,
+you could end up with a prototype. You can then take that
+prototype to a client or potential investors to prove that
+the product is conceptually viable. That's really the core idea
+behind any kind of prototyping, to gain feedback on
+versions of your product. You can begin by spending a minimal amount
+of time developing your initial prototypes to make the most efficient
+use of your resources. In the next lesson, I'm going to talk
+about continuous delivery in software development and how that relates
+to Microsoft daily builds. I'll see you there.

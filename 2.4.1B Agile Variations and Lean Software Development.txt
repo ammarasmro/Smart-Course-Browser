@@ -1,0 +1,98 @@
+[MUSIC] The fifth principle of Lean software
+development is the concept of empowering the team. Here's a quote from Teddy Roosevelt,
+which sums up everything I'm about to say. The best executive is
+one who has sense enough to pick good people to do
+what he wants done, and self-restraint enough to keep from
+meddling with them while they do it. That's what this principle of
+empowering the team is all about. If you believe your development team
+has the skills necessary to get the job done right, then why would you spend your
+time trying to tell them how to do it? Your efforts as a software product
+manager are best applied to other things like understanding your client's needs. Remove your developers' roadblocks and
+get out of the way. Does this sound contrary
+to traditional management? Often, when we think of management,
+we think of an overbearing person telling their team in detail what
+needs to get done and how to do it. This says a lot about how little those
+managers trust their team, doesn't it? And of course,
+the team members can sense that. It's draining to be micromanaged and
+told what to do day after day. This is why Lean software development
+aims to empower the teams which follow its practices. Instead of telling your
+developers how to do things, Lean software development encourages
+managers to listen to their developers. As a software product manager,
+you're encouraged to let your developers imagine solutions that
+satisfy client requirements. Your goal should be to listen to
+what your developers have to say and offer suggestions. After all, they should be your allies. This practice of believing
+in your development team allows your team to work
+how they want to work. Trust them to make the right
+technical decisions. Not only does this make sure that your
+developers are using the most productive method for them, it also serves
+as a huge boost to their morale. When your development team feels
+as though they're in control and they're given the freedom to complete
+their tasks without being micro-managed, things go so much more smoothly. This is the rationale behind
+empowering the team. A happy development team is
+a productive and an efficient one. Let's test your knowledge
+on these principles. What is one of the main reasons that
+a software development team, and client, should decide as late as possible
+when developing a software product? A. it buys them more development time. B. it allows them to explore
+other product designs. C. the client never knows what they want. And/or D. it allows the team to
+build working software quickly. The correct answer is B. Deciding as late as possible
+allows your developers and your client to explore other
+potentially better product designs. This doesn't extend product deadlines or
+make anything go faster. And it definitely doesn't mean that
+your client never knows what they want. Remember, just because you present your
+client with the best possible option by deciding late, it doesn't mean
+that you don't have to be on time. The sixth principle of
+Lean software development is a principle of building integrity in. This is a broad,
+all-encompassing principle. What it really aims to do is
+ensure that your development team is using the best practices available
+to them in order to avoid errors. So how does this look? Well, I mentioned briefly
+in the practice of test driven development
+in a previous module. This means writing tests
+before you actually need them. Instead of building your product and then testing, where developers
+write tests around existing code, you want to focus the actual problem
+that the code is meant to solve. Basically, building your tests first means you're actually testing if
+your code solves your problem. And not only if your code works. Another way of building quality in, is one
+that borrows from Extreme programming, which Morgan talked about
+in the last module: Pair programming. I would encourage you to re-watch
+that lesson if you need a refresher. However, I will say that pair
+programming is a way for developers to really increase
+the quality of their product. Basically, it's like having an intelligent
+guide by your side as you build. I will warn you that
+pair programming is also very costly in terms of developer time. So while it's a wonderful tool for developing great software, don't rely
+on it to build your entire product. If you do, you may just end up violating
+the deliver as fast as possible principle. There are other ways of building
+quality into your products as well. Things like well commented code, good documentation, refactoring code to
+be more efficient, and automated testing. They are all ways in
+which you can do this. If you would like more information
+on these topics specifically, please see the course resources. We have included some readings for
+your reference. All of this serves the purpose
+of making your product better. One of the core values of Lean is to
+eliminate as much waste as possible. So by reducing the amount of time
+developers have to fix code, you reduce the amount of waste
+present in your projects. By building quality in, you drastically reduce
+the number of post release defects and fixes. So by building quality in, you drastically reduce the amount
+of waste present in your product. The final principle of Lean, which I'll cover in this course,
+is the principle of seeing the whole. What it means to see the whole, is to see
+your software from more than just a lot of little components put together. After all, what the end user sees is more
+than just some features strung together. What the end user should
+see is a cohesive product with components that flow into
+each other logically and smoothly. So in Lean software development, it's important to think about your
+product as a whole before releasing it. This means that your developers
+must be constantly aware of how their piece of the puzzle
+fits into the big picture. The big picture could be
+the whole product, but it could also be how that product fits
+with other products by the same maker. Without this perspective, things can
+come out disjointed, illogical, or just plain awkward. Seeing the whole allows your development
+team to build a product as a cohesive well-designed whole. Ross is building a software product for
+medical research. Since the work he does
+everyday saves lives, he is continually trying to improve
+his software development processes. He recently came across
+Lean software development, and has begun implementing
+some of its principles. He tries to encourage his team to see the
+project as part of a larger purpose, and gets them to create many different
+versions of the software before committing and focuses on building quickly. In order to save time, he has asked
+his development team not to develop unit tests, document code, or
+use any specific programming practices. What aspect of
+Lean Software Development is Ross actively omitting from his project? A. eliminating waste. B. amplifying learning. C. deciding as late as possible. Or D. building integrity in. The answer is D, building integrity in. By actively avoiding these
+best practices in programming, Ross is actively choosing
+not to build integrity in. By proxy, this may create waste,
+but not directly.

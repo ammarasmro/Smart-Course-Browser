@@ -1,0 +1,113 @@
+[MUSIC] The second principle of Lean software
+development is the principle of amplifying learning. This principle is pretty simple, don't focus too deeply on one idea
+before you've fully explored another. Explore ideas thoroughly by
+thinking through alternatives before proceeding with actions. Here's what this would look
+like in a real world scenario. Your development team creates
+a very basic list of user requirements. They quickly get things off the ground. They can then very briefly plan out one
+possible approach for this product and begin to develop that basic functionality. This is pretty common
+across most processes. Of course,
+in order to amplify learning though, a good practice is to stop at this stage. Don't do anymore work on this version. Ask yourself,
+could this be done another way? If so
+your development team briefly plans and develops these alternative
+approaches as well. As a consequence of allowing
+your product's feature set to be adjusted like this,
+your product is given its best chance at meeting your client's needs
+in the most satisfying way. But this isn't the only way to amplify
+learning in a software product. Lean software development
+encourages running integration and unit tests after each
+build of the product. The rationale here is not just to
+ensure that your code is well written. Testing can also be a great way of
+learning how your product should function. Tests can bring key insights to your team which can be used to inform other versions
+of the product in future planning. In Lean software development,
+this happens in very short iterations. The idea here is to fail and
+learn quickly. Also if you spend too much time
+on one design or one feature, you may very easily find yourself too invested
+in one design to really see its flaws and consider other, better approaches. Another way in which Lean software teams
+are encouraged to amplify learning is to involve clients throughout
+the development process in a special way. Not only should development teams create
+different versions of their product before focusing in on one version, these versions should be constantly
+presented to the client. This allows the development team
+to learn through trial and error, what the client really needs? It also allows the client to
+learn how they want their product to adjust to their specific problem. Over the course of development,
+these needs should be refined so that things stay feasible. This is like natural selection and that many potential approaches
+are presented to the client. This allows them to decide on what
+features they want to see built into the product which then brings focus
+in refinement to the final product. So by involving the client in
+trying different approaches, your development team learns how best
+to tackle their specific problem. This leads to better software and happier
+clients than if your development team had just chugged straight along with no
+consideration for alternative designs. So the point of amplifying learning is to
+make sure that your team builds the right product through developing alternatives,
+continuous feedback and refinement. Audrey is building a software
+product with her development team using the Lean software
+development practices. She's asked her development team to only
+focus on one aspect of the project at a time while creating different
+alternatives for their client. By asking her team to focus on one
+aspect of the project at a time, Audrey is implement
+which principle of Lean? A. develop small, incremental releases. B. amplifying learning. C. focusing on frequent delivery. Or D. eliminating waste. The answer is D, eliminating waste. Amplifying learning is
+what Audrey is doing, by having her team build
+different alternatives. Developing small incremental releases and focusing on frequent delivery
+are principles of agile not Lean, although Lean projects can
+certainly make use of them. The third principle of
+Lean software development is deciding as late as possible. Now, this may seem like an excuse
+to delay the product for more development time, I assure
+you it's quite the opposite. This principle actually flows
+well from amplifying learning. Imagine a software team that builds a
+basic piece of software for their client. The client then sees this prototype and
+says yep, that's exactly what I need. Build that. It's pretty clear that continuing
+along the lines set up by this initial prototype. Would lead to satisfying the client. Well before you decide, consider this,
+the development team being a Lean software development team explores different
+approaches in order to amplify learning. They know that the client finds their
+prototype sufficient for their needs. So the team asks the client what
+characteristics about this prototype are appealing. Given this information, the team goes
+on to build alternative versions of the product, integrating what
+the client likes about the prototype. After a few more versions of
+the product have been completed, the client looks everything over and decides that the original prototype
+is just not gonna cut it anymore. It has specific features which would
+be great for the end product but an alternative version is going
+to work better for their needs. So the development team returns to
+their desks and uses this feedback to integrate features from the original
+prototype into the new one. Now the team has a more refined version
+of the product than they did originally. The client looks it over and becomes
+happier than they ever were before. This one seems to really
+hit the nail on the head. And development continues along having
+learned the lessons they needed to get the right product. What would have happened if
+the development team took the client's original decision to build
+the first prototype as final? Instead of developing alternatives
+that better met the client's needs, the development team could
+have built a poor product. Not only that, they wouldn't even known
+that they were building a poorer product. This is the core idea about
+deciding as late as possible. It's not about delaying anything or
+buying time. It's about making decisions when the data
+and information you need is available. For example, you work hard to ensure
+that there are many alternatives. Decisions made before you
+have enough information are bound to result in poor outcomes. Deciding as late as possible, ensures
+you have the information you need first. The fourth lean software development
+principle, is deliver as fast as possible. Remember how I said that
+deciding as late as possible is quite the opposite of
+delaying development? This principle really
+solidifies that idea. Actually, this principle of
+delivering as fast as possible is intricately related to
+deciding as late as possible. Here's what I mean. When deciding as late as possible, the development team presented a lot
+of different approaches to the client. This allowed the development team to
+get the necessary client feedback in order to focus in on
+what the client needs. However, what would've
+happened if the development team took three months to develop
+each potential prototype? Imagine he had four alternatives,
+each taking three months. That's a whole year before any
+final product decision is made. Who wants to wait a whole year
+before making a final decision? That's why Lean software development
+operates in short rapid iterations. Build a basic product,
+make sure it works and get it out the door and
+then worry about the next steps. No filler, no unnecessary work, no waste. By operating in short bursts, your
+product not only evolves at a rapid rate, but it also allows for the client to give feedback at frequent
+intervals throughout the process. What happens when the client
+changes their mind about a feature? If it took three months to build
+a prototype with that feature in it, then that feature would have been
+incorrect for that whole time and who knows what else may
+have depended on it. However, if development
+happened in rapid iterations, that issue would have been caught and
+corrected early. This minimizes waste and increases the amount of quality
+built into your product quickly. So by building the product quickly your
+software is allowed to grow at a fast pace but it also ensures you're doing so efficiently by working on parts of
+the product that will make it to the end.

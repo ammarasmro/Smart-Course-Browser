@@ -1,0 +1,112 @@
+[MUSIC] Okay, so now that I've covered the
+importance of software product management, let's talk about what your role would
+be as a software product manager, It is a central management role. It sort of resembles being a producer and
+a director for a movie, but without the red carpet fame. You're in charge of the success
+of a software product. But the role is much more
+than just managing a project. The role involves really
+understanding the product. That is, you have to know what it does and
+its unique benefits, like a real user. You're also going to have to
+know the business case, that is, the value that this project will have for
+the client, and the way the software will change
+the game for this client's business. Great software product managers
+have mastered multiple disciplines. They can speak to both clients and
+developers in their terms. They can listen and imagine a client's
+vision, communicate effectively with their development team members, and motivate
+the team to achieve the best outcomes. They can also manage
+clients' expectations, and they also know how to get the best
+efforts out of their development team. They care about their people. Does that sound like
+something you'd be good at? Success of your product also
+depends on solid teamwork. Programmers, testers, interface designers,
+graphic artists, must work together. Your role is to empower them to bring
+their best efforts to your project. Software product management
+is a leadership role. Let's take a look at a few
+interviews of what those already in the industry feel about this role. [MUSIC] >> My role actually is one of
+leading software development teams. I do see myself, though,
+as a product leader, and I encourage everybody on the team
+to see themselves as a product leader. >> I have a software
+product manager on my team. We work closely together in partnership. The product manager works to
+bring requirements to me, and to help me understand what
+our customers need, and then I work to fulfill those
+requirements with the team. >> So a lot of what I do is to
+define a vision product strategy, product road map, and
+also specifications for the developement team,
+as well as our experienced design team [MUSIC] >> What excites me, what challenges me,
+is getting the engineers, the testing team, the documentation team,
+understanding in no uncertain terms what the problem is we
+are trying to solve, that makes my day. >> The product manager
+meets with the customer, they get an idea, they get a vision for
+how something could be, they articulate that vision back to their engineering
+team and the associated stakeholders, and then they actually see it be
+produced as working software. And it's tremendously satisfying for
+the product manager to see it actually delivered and to then see the impact that
+has on the customer and their reality. >> Seeing how customers react
+to the finished product, reading reviews about it, seeing it
+in stores, is enormously rewarding. [MUSIC] >> Getting the team to
+rally around the problem. If people show up for work because there's a job
+for them, they don't innovate. They'll do what you tell them to do and
+they'll go home. If they internalize the mission of
+the problem you're trying to solve, magic happens. >> Ambiguity is huge. I think we see that customers don't always have the ability to
+explain what exactly it is that they want. And so we tend to employ a lot
+of different strategies to uncover what it is they want,
+even if they can't tell us. So we might watch a customer. We might sit and watch them do their job
+for a while to help get past the ambiguity of them saying something, even and
+to find out what they actually need. People can have 100 different
+ways of solving it, right? And so this is where, for me,
+the approach of experimentation, rapid iteration,
+is really the key to solving that. So it’s acknowledging
+the differences of opinion and the lack of shared vision, and say okay. What are we gonna do to
+actually solve that and how do we determine whether that's
+the right course of action or not? [MUSIC] >> As a leader, first and foremost,
+you need to be able to do three things. You need to be able to motive with
+your vision, you need to be able to organise the work that needs to be done,
+and you need to be able to innovate. Frankly, if you can't innovate yourself, it is your job to hire people
+who can help you innovate. >> They need to be able to
+hear what somebody is saying, what a customer is saying, and
+turn that into a requirement and ultimately a specification that
+an engineering team can build and deliver. >> Next thing,
+you need to be able to communicate. As a person who communicates, or sells,
+your vision across the organization at all levels, to executives, to engineering
+teams, to sales teams, to marketing teams. You need to be able to understand at what
+altitude all these things exist at and what messaging resonates with them. >> The ability to form really great
+relationships, think strategically. Also be really tactical when need be. >> It's not about you. It's never about you as a product leader. It's about the customer problem. Your job, my job,
+fall in love with a customer problem. [MUSIC] >> People will either start
+from the business side and realize they've got some interest and
+skill at software, and they understand kind of the general
+idea of how software is built. And so then they'll get a little
+more technical aptitude and they start to get involved
+in things from that side. >> Personally,
+I came from a comp sci background. I grew up as a programmer. And slowly I've migrated into
+a product leadership role. But I've also seen
+people with music majors who have become amazing product leaders. What do we have in common? Me, who has a computer science degree and
+the guy who has a music degree, is, first and foremost, leadership. If you're able to motivate people,
+able to organize people and can innovate,
+you can do well in product management. I think other's come at it
+from the engineering side, where they're a great engineer, but maybe
+they decide they've got more passion for that vision, and
+the planning side of things, and the collaboration,
+rather than the implementation side. I think a lot of product managers learn on
+the job, when you get right down to it. [MUSIC] >> Apply for it. Apply for it. Look for it online, apply for it. But 
+understand this, you are here to lead people, you are here to lead a process,
+you are here to solve a customer problem. If you believe that that is you, from a
+self-awareness perspective, apply for it. >> They should get to know their
+engineers, they should get to be very well aligned with the problems faced by
+engineers, with the opportunities that engineers can bring to the table, and
+really focus on that partnership, I think. Customers and
+customer research is critical, and that's a basic skill of a product manager,
+so that's just expected. I think over and above that, though, to just really be good at building those
+partnerships with their own team and, again, with their
+stakeholder teams as well. >> For me, it's be customer obsessed. Be grounded in the customer,
+understand them really, really well, because it's gonna
+be your job to represent them. If you start with that, and
+you can do that really well, if you can understand your
+customers at a deep level, then you're already kind of
+ahead of the game, if you will. >> As you've just seen, the position of a software product
+manager can be a fulfilling career path. Capable managers earn the respect
+of both clients and team members. Great managers are sought after for their track record of
+successful product deliveries. Whether you want to make a move from
+developer to product manager, or you understand the business side and
+you want to move to more of a hands-on role in shaping the software, or maybe
+you want to look for a career change and work more in software project management. So whatever your reason for starting this
+path, this specialization will guide you step by step to become a competent,
+confident software product manager. So what are you waiting for? Check out our next lesson to see
+an overview of this specialization.

@@ -1,0 +1,76 @@
+[MUSIC] Finally, let's examine the principles
+about collaborative communication and organization. Communication is essential for
+any team creating great software. Teams can be organized to
+facilitate better communication and drive great software development. Let's begin with our eighth principle. It speaks to trust. It states: build projects
+around motivated individuals. Give them the environment and
+support that they need, and trust them to get the job done. This means, as a product manager,
+you might need to take a step back. This can be hard to do, but it is important to act as more
+of a facilitator for your team. General George S. Patton once said,
+tell people where to go, but not how to get there, and
+you'll be amazed by the results. The next principle is
+about self-organization. It states: the best architectures,
+requirements, and designs emerge from self-organizing teams. Agile encourages teams to self-organize. This means that as a team they decide
+how they want to organize the project. This includes things such as assigning
+tasks and choosing tools to use. We're getting closer to the end now. The tenth principle is about
+client-developer communication. It states, business people and developers must work together
+daily throughout the project. Once again, as a product manager,
+you will act as a facilitator, but never as a messenger
+between the two parties. Our second last principle
+is about communication. It states, the most efficient and
+effective method for conveying information to and within a development team
+is face-to-face conversation. Being able to speak directly to a project
+team member can reduce opportunities for miscommunication and
+increase the speed at which work happens. If co-location is a feature of your team,
+take advantage of that and have frequent, short, in-person meetings. When your team is global, use communication tools
+such as video conferencing. It's not as effective as
+in-person communication, but it's important to do what you can. And last but not least, the final principle is about
+reviewing what's been done. It states: at regular intervals, the team
+reflects on how to become more effective, then tunes and
+adjusts it's behavior accordingly. Your process is very much like
+the product you are creating. You need to test your processes,
+review them, and make improvements. Henrik Kniberg, an Agile trainer and author, said: “The important
+thing is not your process. The important thing is your process for
+improving your process.” Processes are very
+similar to writing code. A process that is perfect the first
+time is equivalent to a program that has no bugs when
+you first compile it. It's impossible. You are working for a global corporation
+that develops applications for airlines. Your latest project is managing
+the development of an entertainment app that replaces the television
+screens on airlines. Your development team is very experienced
+with development, as well as with Agile. They self-organize the team. What does this self-organizing
+team actually look like? Check all that apply. A. there is no work for
+the product manager to do. B. they have agreed upon
+certain practices to follow. C. they've decided to self-assign
+as they complete tasks. And/Or D. they have appointed one
+leader who is in charge of the team. B and C are great ways that
+teams can self-organize. And those are the correct answers. Self-organizing teams are supposed
+to encourage communication, teamwork, efficient development,
+motivation, and respect. Appointing someone as a leader does not
+put everyone at the same level of respect, and it does not encourage
+equal responsibility. A self-organizing team also does not mean
+that there is nothing for you to do. You are there to manage and coach them
+in the practices they have chosen. So now that you have looked at the Agile
+Manifesto, you might be thinking that I've given you all these principles,
+but no methods to apply them. Most of the concepts and practices that
+you'll be examining in this specialization will relate to one or
+more of the Agile principles. By the end of this specialization,
+you'll have the tools and knowledge to confidently apply
+these principles to your projects. You will get the most out of this course
+if you revisit the Agile Manifesto and relate what you learn in later
+courses to the principles and core values presented in this lesson. If you're interested in learning
+more about the Agile Manifesto, you can go to agilemanifesto.org. I have been a part of many teams,
+both as a developer and a product manager. I've experienced development with and
+without the use of Agile practices. One of my non Agile products was delivered
+with only two-thirds of the features actually complete. Now don't get me wrong,
+I've had Agile projects go astray. The difference was that we noticed
+the Agile project was failing early, and we were able to rescue it. With the non Agile project, I didn't know the project was
+failing until we delivered. Have Agile principles benefited
+you in one of your experiences? Have you been a part of a project
+that could have used Agile? Share your experiences in
+the course discussion. Keep in mind that these don't have
+to be software development specific. I realize that we have learners
+from many different industries. Let's see how these industries relate, and how Agile can be applied to many
+things other than just software. Now that you know the Agile principles,
+you need to apply them to something. Every good project has a process. In our next lesson,
+you will learn why processes are so essential to product management and
+development. See you there.

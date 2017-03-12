@@ -1,0 +1,95 @@
+[MUSIC] So are you excited? We are too. Here's how the Software Product Management
+specialization is going to be structured. There will be six courses for you to
+take, including the course introduction, which you're watching right now and
+ending with a capstone course. The intro course has two modules. You've already gone through most
+of the first which introduces why we need software product
+management to begin with. In the next module, Morgan and Bradley will
+talk much more about the specific skills which our software product
+manager must possess and elaborate on why they're
+necessary to the profession. After you finish this course, you'll be
+ready to move on to the next four courses. These four courses will be structured
+a little differently than this one. In these courses, you'll be starting
+with a big picture view of the concepts, followed by a deep dive into the skills and
+practices that make a software product manager a valuable
+asset to any development team. Each of these four courses then
+will be larger than this one. We have four modules per course each
+ending with end of course exam which will be graded towards your
+overall specialization grade. The way we have designed this
+specialization is that each course builds upon knowledge gained in the last. So, we encourage you to
+start at the beginning and work your way through sequentially. However, our Software Processes
+& Agile Practices course, and our Client Needs & Software Requirements
+courses have been designed so that you may take them in
+whichever order you like. Given that we are from
+a Canadian University, I want to share a part of
+our heritage with you. You might recognize
+the image of inukshuk from the 2010 Winter Olympics in Vancouver. An inukshuk is a man-made
+landmark resembling a human. Used by the Inuit peoples of
+the arctic to mark paths. The traditional meaning of the Inuksuk
+says you're on the right path. Not only is this an excellent metaphor for
+the journey you're about to embark on in this course, but it also represents
+the way we structured our specialization. We want you to think about this
+specialization like an Inuksuk. This introductory course is like
+the ground on which your structure will be built. Organizing activities for
+producing a software is important. Also figuring out what clients
+need is also crucial. Our “Software Processes” and “Software Requirements” courses, then,
+are like the stone legs of our structure. It will be what holds everything else up. Beyond this are the project needs
+to plan work adaptively and review progress regularly. So next on our structure
+will be our body and our arms: the “Software Planning” and
+“Project Review” courses. An Inuksuk without legs
+is just a pile of rocks. Likewise, learning only planning and
+reviewing a project, without fundamentally understanding
+the importance of process and requirements, will create a management
+style that chases moving targets, and generates much busy work
+that accomplishes very little. Lastly, every Inukshuk needs a head. In this specialization, the final piece of the puzzle will
+be a specialization capstone. This will be where you'll apply all the
+concepts that you learned in the previous courses. The capstone is a six week long project,
+in which you'll evaluate and make decisions for
+a simulated team of software developers in a quest to create a product for
+a challenging client. In order to participate in a capstone, you'll need to have taken all
+the prerequisite courses. After you've completed all
+the prerequisite courses and the capstone, you'll have earned your
+Software Product Management Certificate. This certificate is your proof of
+having done all the work required to be certified. Each module will have the workload
+of two to four hours. And the content of each module should
+be about a week's worth of work. Because the workload is small, that doesn't really mean that there's
+not a lot to learn in this course. This estimate is based on the amount
+of video time we have for you, as well as all of our readings and
+assessments. We will post additional reading
+resources for your reference. We recommend that you take a look
+at those as often as you can so that you can make the most
+of your time with us. The more you put into this course
+the more you get out of it. We're here to give you every
+resource possible so it's easy for you to get the most out
+of this specialization. However, there'll be a course discussion,
+in which you can write any questions or comments you have about the course. Please use it. Your fellow classmates,
+as well as the course TAs, will be more than willing to help you with
+something that's not quite clear to you. Throughout your courses you'll be
+asked to fill out periodic quizzes. These are designed to help you
+stay focused and on track. As well as to give you the opportunity
+to check on the knowledge that you've just been taught. Unlike the end of course exams,
+these will be not counted on your final specialization grade. So we've already talked a little
+bit about what we hope to gain from the specialization
+in previous lessons. It's worth reiterating that we
+want to give you confidence in your skills as
+a software product manager. We'll provide you with all the resources
+you will need to gain those skills. But if there's anything
+you're not clear on, please don't hesitate to address that
+issue on the course discussion forum. For a software project,
+which of the following is true? A. The features for a software product
+must be determined all ahead of time, and not changed once development starts. B. The client sees a software
+product only after the development is fully finished. C. Once a project
+management plan is decided, it should be followed
+without further changes. Or D. Agile software development is like
+hacking, and does not require planning. None of these answers are true. For software products, change happens
+constantly to address new needs and opportunities. So answers A and C are false. The client should be involved during the
+development process to provide feedback. Not only at the end, so answer B is false. And finally, agile software development
+is a disciplined set of practices with planning and specific rules,
+so answer D is false. So, with that,
+let's move on to our first assignment. This is a great place to introduce
+yourself to the class and reflect on what you have covered so far. Please make your way to
+the course discussion and write a brief introductory
+message about yourself. Tell the class about yourself,
+your background, and your reason for taking this specialization. Read some of your classmates'
+introductions as well. Let's build a strong learning community. And that's it for our first module. When you come back, we'll be jumping
+into more specifics of software product management and
+why we might need them in the first place. See you later.

@@ -1,0 +1,119 @@
+[MUSIC] In the last lesson, I outlined some of the
+earliest software development processes, linear models. I gave you an example of
+two construction workers, each trying to build a railroad
+with different tools. Then compared that to choosing
+between different software processes. Keep that example in mind, as we go through this material, to remind
+yourself why this content is important. In the next few lessons, I'm going to talk to you about some
+iterative software process models. Iterative software process
+models are ones which allow for repeating stages of the process. They are cyclical. Iterative models, extend upon the linear
+models, which we talked about earlier. The biggest advantage
+they bring to the table is that they add the ability to
+loop back on previous steps. Each loop back is an iteration,
+hence iterative model. Iterations allow for
+feedback within the process. Iterative models can be considered
+a forerunner to truly agile practices, yet they also, embody sequential steps,
+reminiscent of previous linear processes. When you begin talking about agile
+practices with Morgan, in the next module, try to see if you can find the points of
+compatibility, between agile practices and iterative processes. In this lesson, I'm going to talk
+about the Spiral process model. When the Spiral model was
+introduced by Barry Boehm in 1986, it outlined a basic process for designing
+and implementing a software system, by revisiting phases of the process,
+after they've been completed. Before you move on, I want to warn you
+that some of this stuff can get technical. If you find yourself needing
+clarification on a concept, please look at the course resources for
+this lesson. There, you will find references to all
+the content, which I will talk about here. All right. So this is a simplified explanation
+of the Spiral process model. You can see right away why
+it's called Spiral model. On a basic level,
+the model consists of four quadrants. As you move through this process, the idea is that you move
+from one quadrant to another. Consider each of these four quadrants,
+as a phase of an iteration. Where an iteration is,
+the duration of one full spiral or all four quadrant phases,
+being completed one time. Each of these phases contain activities,
+like Morgan defined in the first module. In Spiral, you begin by coming up
+with the objectives and needs, and generating solutions for
+the current iteration. Then, you identify and assess risks,
+and evaluate those solutions. You then move on to developing and testing
+the product in the current iteration. Once you have a product that
+satisfies the objectives, you move on to planning
+the next iteration. If each quadrant is
+a phase of an iteration, then once you complete an iteration,
+you move onto the next. That's the basic flow associated
+with the Spiral model. You gradually build up a product,
+by repeating the phase cycle. For example, you might start
+a project in the Spiral model, by determining the client and
+user requirements. You'll then come up with potential
+solutions to fit those needs. After that, you might choose to evaluate
+the solutions you came up with, then you might build an initial
+prototype of the product, and review what needs to be done for the next
+iteration, that will be one iteration. In the next iteration, you might start again by defining
+the objectives of the iteration. Perhaps, features to be added to
+the prototype that you just built. Then, you'd evaluate these features, and move onto building the features
+you deem appropriate. You then review what needs to be done for
+the next iteration, and continue from there. Until the project has been completed
+to your client's satisfaction. So unlike linear models,
+which we described in the last lesson, iterative models, like Spiral, tend to
+repeat elements of the process throughout. This means that the Spiral
+model allows for a development team to review their product
+at the end of each spiral iteration. Doing so can better ensure that your
+product is being built to specification. Johnatan is using the Spiral
+model to build his software. He has extensive experience with
+programming with punch cards, and using the Waterfall model. So Spiral iterations are a big step for
+him. He just finished developing and
+testing his product, but can't remember what stage
+of the model comes next. Which stage of the Spiral model
+comes after development and testing? A. The next iteration. B. Planning for the next iteration. C. Product release. Or D. Further testing. The answer is B, planning for
+the next iteration. Since Spiral is iterative,
+you loop back around and begin determining your objectives, and
+refining your design again, but you only do that after you've first planned
+your design, at the end of the iteration. Even though some aspects of
+projects following Spiral model may change from project to project, six
+conditions almost always stay the same. These are called the invariants
+of a Spiral model. They were first described by Boehm,
+in his follow up paper, published in the year 2000. What's interesting about this,
+is that for the most part, the invariants actually also apply to
+a lot of other process models, as well. Now these invariants can
+get pretty technical. So instead of going into
+detail about all six, I'm only going to cover the core
+concepts of a few key invariants. If you'd like more details
+about each of the invariants, please check out the course resources. There you'll find detailed
+descriptions of each invariant. The first invariant of the Spiral
+model states that all work products, of a software project, should be
+created concurrently, at the same time. This may seem strange,
+but the basic idea is that without defining things at the same time,
+you put your project at risk. This is because with the usual method
+of Waterfall, doing things sequentially means making decisions based on only
+a limited amount of information. The second invariant of the Spiral
+model is really simple. All the quadrants in the model must be
+addressed, there's no skipping steps. This is because each
+quadrant of the model, brings value, if you skip one, you put
+your project unnecessarily at risk. Because what you're likely doing is
+making assumptions about the project. Assumptions can, of course, be false. You don't want to build a project
+based on false assumptions. The last four invariants
+are pretty technical, so I won't get into much detail. Essentially they say this, every
+project implementing the Spiral model should base the amount of time they
+spend on any particular activity, on the amount of risk involved
+in carrying that activity out. It focuses a lot on making sure that
+you base your decisions on risk data. The other invariants also mention that each iteration of the Spiral should
+result in a tangible work product. And that the focus of the process should
+be on improving the process, as a whole. So all these invariants build
+up to create the Spiral model. This helps to define the model,
+but can you see any issues? Although Spiral is clearly
+an improvement upon linear processes, in many ways,
+it also has its share of disadvantages. One of these disadvantages is
+planning tends to be done upfront at beginning of each Spiral. Depending on the duration of the Spiral, this could make it difficult
+to make good estimates. Another disadvantage is that the ability
+to minimize risk in a calculated fashion, which this process lays out, requires
+an immense amount of analytical expertise. Think about the amount of data that you
+would need in order to know exactly how much time is too much, or too little,
+when working on an activity. These sorts of risk assessment tasks
+consume a great deal of resources, in order to get right. If you find yourself in an organization
+which uses the Spiral model, it's likely that you're
+working on large projects, with years of experience, data, and
+technical expertise, at your disposal. So there you have it. The Spiral model is a great
+example of an iterative process. Things get done in a way that allows for the revision of the product
+in certain intervals. Like other process models,
+it has its disadvantages. But it's clearly different from
+what we saw before, right? In the next lesson, I'm going to talk
+about the Unified process model. Try comparing what you learned
+in this lesson, to that.

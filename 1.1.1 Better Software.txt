@@ -1,0 +1,97 @@
+[MUSIC] Hi, welcome to Coursera's Specialization
+on Software Product Management. I'm Ken Wong, Associate Professor in 
+Computing Science at the University of Alberta and 
+my expertise is in software engineering. Over the course of this specialization,
+it's my goal to turn you into a confident, certified Software Product Manager. If you're already a software product
+ management specialist, well, then I'm here to make you even
+more awesome at what you do. [MUSIC] So some of you may have already been
+ working on a software product of some kind. Thinking back on your 
+experience, was it a success? Could the project have been done better? I bet most of you are thinking yes. This specialization will show you 
+how to work with your clients and organize a team of developers to 
+make better software products. So you already know projects 
+can be done better. Think a bit for a moment about what you
+ might want to improve in yourself as a Software Product Manager. Sure, there could be plenty of
+ technical skills you can be better at, like specific platforms, languages and 
+tools, but there's so much more. Let's explore that together. I've already mentioned that you'll 
+be working with a development team. We'll be talking about this a lot 
+more throughout this specialization. Select the people who you think typically 
+compose a software development team, you may select more than one answer. A. Programmers, coders or developers. B. Clients. C. User interface specialists and
+ graphic designers. D. Quality assurance specialists or
+ testers. Every development team that you will
+ work with will be different and unique. Normally, the development team is made
+up of coding muscle, graphic designers and testing personnel. So that means the most correct 
+answers are A, C and D. Although you and your development team
+ will be working very closely with clients, they are not normally considered
+ part of the development team. So that would exclude answer B. Today, it takes the sustained work of many
+ people with different skill sets to make great software products, but
+ how should they be organized? What practices can teams follow to
+ make the work more disciplined and less ad hoc? We're beginning to enter the realm
+ of a Software Product Manager. Let's think about some other 
+questions that should interest you. Can you work not just harder, but smarter? There are various issues. What if there are many team
+members to coordinate? What if there are lots 
+of features to develop? What if the project is intended 
+to last several years? How do we manage all that? And we can't forget about the problem
+ we're actually trying to solve. That is, what does a customer
+ really want in a software product? What about its quality? What do they expect? What processes and practices can 
+we put in place to ensure that? Planning all this can be really tricky,
+ especially with resource constraints. How do we handle the scope 
+when time is limited? How do we deal with changes or avoid
+the scope of the project getting out of hand? For the clients, their needs might 
+be uncertain and change over time. For developers, their rate of work could
+ vary over time. There could be huge differences between the productivity
+ of one developer versus another. How do we adapt to such variation? Questions like these are always on
+the mind of a software product manager. In this specialization, I'll teach
+ you effective management techniques to deal with just these sorts of issues. These techniques will help you 
+help your team produce better software. In particular, you'll learn about 
+agile software development. Key factors for a great product
+ are the people and process involved. You will hear more about topics like 
+agile practices and planning plus topics like requirements, 
+reviews and retrospectives. To start off,
+this introductory lesson has two modules. The first module highlights the importance
+ and role of software product management. It also gives an overview of the whole
+ specialization with its goals, structure and expectations. The second module introduces topics that
+ will be covered in the courses as you move deeper into the specialization. Now imagine yourself the hotshot
+ software product manager, you've got a good desk next to the window. Select the tasks that you
+ think come along with the job. A. Interacting with clients. B. Managing and tracking development. C. Collaborating with 
+the development team. D. Relaying information between 
+the client and development team. E. Ensuring product quality. As a Software Product Manager, you'll 
+be interacting with a lot of different people, including clients and 
+development teams. You'll also be tasked with matching and
+ tracking progress and development. It is also your duty to ensure the product 
+works the way it's supposed to and validate that the product
+ meets the needs of the client. However, as a product manager, you do not have to act as a messenger 
+between the client and development team. You want to encourage them 
+to communicate frequently. Therefore, answers A ,B, C and 
+E are the correct answers. Let's start talking about
+making better software. A Software Product Manager needs to
+ understand a number of viewpoints to achieve better software. One viewpoint aims to provide the right 
+software product for the clients, but what does it mean to be the right product? This could mean a mix of many things. It meets their needs,
+ it's easy to learn and easy to use. It doesn't waste their time and
+ it looks nice. Basically, the clients are happy with it. If true,
+ we say that software product is validated. In this specialization,
+ you will learn about understanding users, how to elicit their needs and
+ how to express software requirements. The second viewpoint aims to have 
+the software product done right, but what does done right mean? Well, the software conforms
+ to a specific design. And in turn, the design satisfies 
+the stated set of requirements. If true, we say,
+ the software product is verified. Developers can conduct reviews and tests to ensure that the requirements, 
+design and implementation line up. Such activities try to catch defects 
+earlier and improve quality. They want to avoid having the client
+ see any defect in the released product. In this specialization, you will learn about 
+processes to improve software quality. A third view point aims 
+to have the project for the product managed right, but
+ what does it mean to be managed right? Well, it insures that
+ the other view points are met. The idea is to set up 
+just enough process and suitable practices to organize
+ the work of everyone involved. If true, we say that
+ the software project is managed. Such activities ease communication and
+ feedback, so that everyone is clear on the next steps. In this specialization,
+ you learn about Agile practices, estimation, planning and monitoring. A software product manager needs to take 
+a central role in these activities. To summarize, I've have just explained three 
+viewpoints in achieving better software. Those are: the right product,
+ done right and managed right. As you proceed through the specialization, 
+you will become more confident in knowing and using these techniques to create
+ better software products. These techniques include practices to 
+ease communication and feedback, to better understand client needs and organize 
+the work of your development team. Next, let's talk about the importance 
+of software product management.

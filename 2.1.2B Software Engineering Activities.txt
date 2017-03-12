@@ -1,0 +1,65 @@
+[MUSIC] Now that your project has been specified,
+it's time to move on to the next phase. The Design & Implementation Phase. These activities are more
+developer specific, so we won't go into too much detail. As a product manager,
+you are going to have to help to track and monitor the work that
+occurs in this phase. The activities in the design and
+implementation phase include: Designing the Architecture, Designing
+the Database, Designing Interfaces, Creating Executable Code, Integrating
+Functionality, and Documenting. This is where your
+development team shines. But before they can get to programming,
+you and your team need to design the product. This includes Designing the Architecture,
+Databases and Interfaces. Then your programmers can
+start doing their thing and start creating executable code. Your team should be integrating or combining their code at regular intervals
+to ensure that their code is compatible. The final activity is Documenting. You may be thinking, hey, didn't the agile manifesto tell me
+that I don't need documentation? The manifesto suggests that working
+software is valued over comprehensive documentation. However, documentation is still a very
+important part of software development. Good documentation helps new
+developers to join the team, or work on parts of development
+that they're unfamiliar with. This type of documentation is
+called Internal Documentation. Your team may also need to develop
+documentation for the end user to use. Such as instruction manuals or
+training materials. This type of documentation is
+called External Documentation. As a product manager, you're
+responsible for helping to track and monitor the development process. Your team has just completed planning for
+this iteration. And they have started writing code for
+the product. Now that the planning is complete,
+you look around for something to do. You look on your desk, and
+see an instruction manual, for a feature created in the last iteration. You look on the wall, and see a list
+of metrics your team decided to use. You look at your email, and see an email from your boss, outlining the
+resources your team has been allocated. And you look on your bookshelf and
+see the latest version of the risk plan. You decide it's time to start monitoring
+the progress of development for this iteration. Which of these work products do you
+think would help you track development? A. External documentation, B. Defined metrics, C. Allocated resources, Or D. Risk plan? External documentation is created to be
+used by an end user, not for tracking. Allocated resources are used to
+advance and support development. Risk plans are very useful
+once development has begun. However, they are not used for tracking. The metrics that your team decided
+to use are essential for tracking. You must be re-calculating and assessing these metrics to make
+sure your development is effective. And your project is on track. Therefore, B is the correct answer. Now, let's look at activities from
+the next phase of development. The Verification and Validation Phase. The Verification and Validation Phase, is where you assess whether your
+product does what it is intended to do. As well as assess whether it
+satisfies the needs of your client. Like the other phases,
+the Verification and Validation Phase,
+is one that is revisited often. Not just at the end of production. You want to be constantly verifying and
+validating your product so that you know your development
+is on the right track. The Verification and
+Validation activities are: Developing Test Procedures, Creating Tests, Executing Tests,
+Reporting Evaluation Results. Conducting Reviews and Audits,
+Demonstrating to Clients, and Conducting Retrospectives. Testing is a large part of
+the Verification and Validation Phase. There are many testing activities,
+including Developing Test Procedures, Creating Tests, Executing Tests,
+and Reporting Evaluation Results. These activities help to verify that your
+product does what it is supposed to do. To validate that your product meets the
+needs of the clients and the end users. You need to complete activities
+such as Conducting Reviews and Audits, and Demonstrating to the Client. This is where you can get
+feedback to improve your product. If the end user or the client disapproves of your product,
+it's probably going to fail. Retrospectives are exercises
+done by your development team. These retrospectives can reflect upon the
+product, and/or the development process. Both the product and
+the process can always be improved. And Retrospectives help identify
+areas to do better next time. As you can see, there are many activities
+that go into developing software. It is important to remember that in agile
+development, you revisit these phases over and over again, and
+that they're not always sequential. By ordering and determining when and how often you revisit these activities,
+you will have created a process. You can now use the activities, that I just covered, to create
+a process that works for your team. You will be exposed to some established
+process models, in the next module.

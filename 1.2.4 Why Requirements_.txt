@@ -1,0 +1,70 @@
+[MUSIC] Hi, I'm Bradley Poulette. I have worked as a project manager on
+many software projects in the past and have studied a broad range of
+techniques relating to the field here at the University of Alberta. I am incredibly passionate about
+software product management and I'm excited to share
+that passion with you. In this lesson, I'm going to cover
+why requirements are important when working on software projects. I'm going to start by outlining some of
+the main reasons why we need requirements, as well as some examples of what happens
+when you lose focus on those requirements. So let's begin with why
+we need requirements. Requirements are a set of specific
+descriptions of your client's needs. I'll cover this in more detail
+in the Client Needs and Software Requirements course, but
+for now, the client is the person or group of people who want the software
+product built in the first place. Requirements combined with processes are the backbone of any
+successful software project. So what makes them so important? Can you imagine a project in which the
+development team doesn't know what their client wants? It would be pretty silly for a client
+to approach a development team and say, do whatever you think
+would be interesting. Even in this case,
+you would still need requirements. And here's why. Say your development team decided to
+create the next great social network app for their unusually casual client. Even if they don't have the project
+needs dictated to them, the project must still have
+a set of features to implement. Here's an example of
+a list of requirements for a great social network app. The user could store user
+profiles in their data, send messages to other users,
+view other users' profiles, create status updates, and
+view other users' status updates. This is a pretty simple example,
+but you get the picture. Requirements generate the features
+of a software product. So what happens if you get
+a seemingly simple request like users can talk to each
+other through the app? How does that translate into requirement? Are users supposed to be able to
+send voice mails to one another? Text messages? Brain waves? What about that word, can? Are users only able to talk to one
+another at certain times of the day? This sort of ambiguity can lead to
+an enormous amount of confusion for developers, especially if most of the user
+requirements are similarly unclear. You'll need to get more details in
+order to really nail things down. Avoiding confusion is incredibly
+important in software development. This starts by knowing how to properly
+elicit and express requirements. By spending the time to
+refine requirements, you can also detect potential errors
+in your product before it's even built. By clarifying ideas,
+development becomes focused and efficient. Here's an example. One of your developers has begun
+developing the social network app and has come across this requirement. Users must be able to
+send messages as a guest. The developer might take this requirement
+and design a system in which users have the ability to either log in to their
+own account or use a guest account. A single guest account fulfills the
+requirement, but will there by unintended consequences when many different users
+have access to one guest account? As a result of the developer's
+understanding of the requirement, this guest account became one big account in which anyone could message anyone
+else and see the conversation. This unfortunate design error is a result
+of a poorly defined requirement. Imagine the amount of time and effort that could have gone into
+building an ill thought-out feature. It would have been expensive to implement
+and even more expensive to fix. Let's see if you can pull out the key
+reasons why requirements are important in software development. You're working with your client to
+elicit a set of requirements for a software project. The client produces a napkin, on which she has sketched out an app
+with a few sparsely worded features. He says, this is the product we want. If you accept this document as
+your final set of requirements, which of the following are potential
+risks to your project? A, the user interface problems may not
+be noticed until software is built. B, the end product may not meet
+the client's expectations. C, the client has too much input over
+the look and feel of the project. And/or D, technical limitations will
+be detected late in the project and be expensive to work around. Unrefined requirements are risky because
+they can lead to detecting issues late in the project. Fixing those issues can be costly and you run the risk of not understanding
+your client's expectations. It's not a risk to allow
+your client more input. When you build requirements, you want to
+work with the client as much as possible. They can then play a significant role
+in this key decision making process. Therefore, A, B, and
+D are the correct answers. To learn more about how to ensure you
+get the most out of your requirements, I encourage you to take
+the Client Needs and Software Requirements course, part of
+the specialization here on Coursera. In the next lesson,
+Morgan is going to talk about the reason why you want to spend time
+planning your projects. Thanks for watching.

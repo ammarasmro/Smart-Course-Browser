@@ -1,0 +1,72 @@
+[MUSIC] To better understand why we need software
+product management, let's begin with a story about how software product
+management can go terribly wrong. You just took on the role of the Software 
+Product Manager, leading your own software development team that will be building 
+a product for client you just met. Your client envisions
+a revolutionary new software system that connects hundreds of
+thousands of end users every day. The deadline is set for
+six months from today. You're excited. This is a big chance for
+you to really show off what you can do. You've met your team. Contracts have been signed and
+everything has been set into motion. What's next? To control this situation, you figure the best thing to do would be
+to map out exactly what your client needs. So you schedule a meeting,
+ sit down with them face to face. You ask them what they would like
+to see in the final product. The client gives you a quick list
+of really interesting ideas, and you're on your way. Your developers begin to buzz
+about how they'll tackle the problem. They each choose a few
+features to develop, and everyone goes off to do their own thing. The project seems to be off
+to a really productive start! Fast forward three months. Your client emails you
+asking to meet in person for a demo of what you've done so far. All of a sudden it dawns on you that
+you have no real idea where you are in the project. You approach your development team for
+updates, they excitedly tell you
+what they're working on. They reassure you that their
+part will be done on time. You tell them, though,
+ that the client would like a demo. Everyone's mood changes to panic. They say, we haven't integrated
+any of our functionality yet. It's gonna take at least a week for
+me to finish debugging my code. I didn't know we had demo coming up. Now you're panicking because you have
+to tell your client you have nothing ready to demo. Surely your client will understand,
+after all, software development is
+more an art than a science. With half the project resources spent,
+things seem to be going nowhere fast. You can barely see what will be
+completed next week, let alone what you'll have ready for the client when
+the deadline comes around for the demo. Another two months fly past. You're now just four weeks away
+from the delivery deadline. The team is in full on panic mode. And one of our developers hasn't
+been at work for two weeks, and their code has become a bottleneck for
+your entire system. You try to assign another
+team member to work on it, but he can barely understand
+the original code work. Nothing meaningful is gonna happen. Now, you're making up for lost time
+you never had in the first place. It's two weeks until the first
+demonstration of your product, and your team is under
+incredible pressure. Everyone has been working through
+the night writing and testing code. You've thrown all the best
+coding practices out the window just to save time. And, you're hoping the client
+won't discover those few bugs you just can't afford to have anyone
+spend any more time trying to fix. The deadline is rapidly approaching. You have no choice but to ask your
+client for an extension of some kind. They're not going to be happy, you think. But what other choice do they have,
+other than to say yes? You buy yourself just some extra time,
+however, they still want to see what you've done so
+far. Two weeks later, demo day. Through foggy eyes and caffeine induced typing, your team has slapped together a rough demo of the product. Everyone is nervous and their only relief is to think
+this project will be soon over. That is, until the client starts
+tearing this whole thing apart. The client says, I never asked for this. What's the purpose of this feature? Why did you decide to
+put this element here? I can't show this to my customers. It becomes heartbreak. What they're demanding is going
+to create much more work. Why couldn't they be more
+specific from the beginning? The project is late enough already. Can it really survive another four months? Can you really survive
+another four months? Now, instead of taking that great vacation
+you had planned with your family. You are stuck in your office banging
+your head against the keyboard. Wishing there was a better way. Coursera and
+the University of Alberta can help. For about the price of
+one university course, you can access an entire
+computing science specialization. Delivered on demand as you need it. Welcome to Software Product Management Specialization, and welcome to the world of better software. Throughout this specialization, our expert
+team of instructors will walk you through all the steps to unleash your
+inner product management ninja. You'll learn how to take control of
+your projects from the very beginning, so like a ninja, nothing creeps up on you. You'll learn how to manage your project
+efficiently and collaboratively, so, like a ninja, everyone on your team
+is aware of what's going on, and you'll learn about what's currently
+being done in industry so that, like a ninja,
+you become a master of your craft. Business today runs on software. Every company has internal applications
+for controlling day to day operations. And a growing number of companies
+are reaching externally to customers through websites and mobile apps. To be successful in
+meeting business goals, companies need competent software product
+management professionals that can deliver the digital assets necessary to
+operate in the 21st century. Welcome to Software Product Management. This could be an exciting journey, and
+we hope you'll learn a lot along the way. We're really looking forward
+to having you with us.

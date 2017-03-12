@@ -1,0 +1,189 @@
+[MUSIC] Welcome to Module Two of the Software
+Processes and Agile Practices Course. I want to begin by telling you a story. Imagine a pair of construction workers,
+each helping to construct a railroad. One worker pulls up to
+the job site in her car. Pulls out a sledgehammer and
+begins to hammer spikes into the ground. The other worker arrives on the site, pulling behind him a trailer
+holding a spike-driving machine. This second worker begins
+to set up their machine. The first worker scoffs at the second,
+thinking it was silly for them to take the time to set
+up this big machine, but it didn't take any time at all for them
+to pull out a hammer and start working. A few days later,
+the second worker's machine is ready. And they begin laying railway ties. At the end of the week, who do you
+think made the most progress and laid the most amount of track? The first worker,
+the one with the sledgehammer, probably thought they were being efficient
+by getting a good start on their project. However, by taking the time to set up
+a different method of doing the same work, the second worker was able to
+quickly outperform the first. We can take this analogy
+a few steps further. Now imagine a situation where
+the railroad company only needs to lay a little bit of track, just to store
+a railway car off the main track. Yes, once set up, the spike driving machine
+could easily get the job done in no time. But in the amount of
+time it takes to set up, a worker with a sledgehammer could
+have quickly gotten the job done. So the spike driving machine is
+clearly incredibly valuable. In fact, it could lay a complete
+railroad network much faster. For smaller projects though, a sledgehammer would
+have been more valuable. If the second worker didn't know that
+sledgehammers existed, they might have used a machine that would have ultimately
+taken more time to get the project done, at a much higher cost. This goes the other way too. The first worker didn't know
+that using a sledgehammer was actually an inefficient way of completing
+the project, and that another option existed. They wasted time and money building a
+project using tools which are insufficient to get the job done efficiently. The point is, knowing and possessing
+the latest and most advanced tools for a job, may not be the most time or
+cost effective way of doing things. A lot of jobs can be done more
+quickly using simpler tools. A lot of jobs could also get done more
+efficiently by using more advanced tools. What you use,
+really depends on the task at hand. If you don't know about all
+the options available to you, how do you know if you're using
+the right tool for the job? In software development,
+it's the same thing. Sometimes we need to have an in-depth
+knowledge of the latest software engineering processes and practices
+in order to ship a product on time. Sometimes all we need is a text editor,
+a keyboard and a rough idea of what to do. What I'm here to do, is to help you
+understand the variety of processes available to you, so that you can make the
+best choice possible for your project. In the last module, Morgan talked about
+what processes and practices are, and why they're useful to organized work. She also explained what a software
+engineering activity is, and went into detail on common
+activities found in the field. In this module, I'm going to take
+a little bit of a step back and talk about some of the processes that
+have been proven useful in the past. And how they've evolved to create some of
+the more common processes we see today. I'm going to begin by talking about
+some processes that are simple, and then we'll move on to how processes have
+evolved to address these deficiencies. Remember, like the sledgehammer, and the spike driving machine, just because
+one process is more evolved and advanced, does not mean that
+the other is now useless or obsolete. It's important that you understand
+all the options available to you, along with their pros and cons, or
+else you may fall into a trap of using a process which is inappropriate for
+the task at hand. With that in mind, let's get to it. In the introduction course, you got
+a glimpse of the different processes which you might encounter when learning
+about software engineering processes. Linear process models follow a pattern
+of phases completed one after another without repeating prior phases. The product is designed, developed, and released without
+revisiting earlier phases. In this lesson, I'm gonna dive into more detail on
+these linear life cycle process models. I'll talk about the ways in which
+they work, as well as some pros and cons of each one. This will give some idea of why linear
+models came to be developed, as well as some context as to why they eventually
+came to be less common in the field. Before we move on, let's test your
+understanding of linear process models. Please choose the linear
+process model from the list. A. each phase happens sequentially and then loops back to the beginning
+when all the phases are complete. B. each phase happens in
+parallel with other phases, until the product is done with no
+repetition between or within phases. C. each phase happens sequentially and
+never loops or repeats. Or D. each phase can be repeated,
+until the product is complete. The correct answer is C,
+a linear process model is one which doesn't support looping
+within or between process phases. Process models which allow for
+looping are called iterative models. Linear models also require that
+phases be done sequentially, with no overlap between phases. Process models which allow for
+overlap are called parallel models. You'll learn more about iterative and parallel process models
+later in this module. So let's first talk about the one
+you probably hear about the most. The waterfall process model. If you're looking into
+software engineering, you've probably heard about this one. The older waterfall model is criticized
+for being inefficient and restrictive. Let's talk about the waterfall
+model in more detail, so that we can see its strengths and
+weaknesses. You've probably already used a waterfall
+like process in many areas of your life. Really it's just a basic linear process. One thing happens after another. It's called waterfall because
+each phase of the process is fed into by an approved work
+product from the previous phase. So, for example,
+at the end of the requirements phase, you'll end up with a product
+requirements document. This document is approved and
+then fed into the next phase, design. At the end of this phase, you will have
+completed a set of models, schema, and business rules. This work is then signed off and then feeds into the next phase
+of the waterfall, and so on. This model allows developers to get
+started on building a product quickly. It allows them to avoid the issue
+of changing requirements by determining their scope early and
+sticking to it. Waterfall places a lot of emphasis on
+documenting things like requirements and architecture, to capture a common
+written understanding of the software by the development team. However, the waterfall model is not very
+adaptable to changes, that is to say, it's not very agile. One of the main setbacks of the waterfall
+model is that, it does not allow for the development team to review and
+improve upon their product. As we told you before,
+software's a very dynamic thing. The waterfall model is simply not
+designed to address midstream changes, which may require
+revisiting earlier phases. Consequently, there are variations of
+the waterfall model that allow feedback opportunities to earlier phases and their
+activities to support certain changes. But what if your client needs a change
+since the approved requirements document. Unfortunately the client doesn't get
+to see the product until the very end. This can be many months later. Understandably, the slow response
+frequently leads to disappointed clients. The waterfall model served it purpose, but
+it's inability to ensure that the work being done is appropriately
+verified is a serious shortcoming. To try to address this, the V-model of
+software development came into existence. This is very similar to the waterfall
+model in that one thing happens after another in sequential order. The difference is that it emphasizes
+verification activities to ensure the implementation matches
+the design behavior. This also ensures that the implemented
+design matches requirements. The idea is to organize each level of
+verification to appropriate phases, rather than all at once. What distinguishes the V-model from
+the waterfall model is that the V-model specifically divides itself into
+two branches, hence, the name V. Like the waterfall model,
+the V-model begins with requirements, and feeds into system architecture and design. This branch is represented by
+the left hand side of the V. Followed from the top down. At the end of this branch, emphasis shifts
+from the design to the implementation. This is the bottom of the V. Once implementation is complete, the model
+then shifts its emphasis to verification activities, which is represented
+by the right hand side of the V, followed from the bottom up. Each phase on the right hand side
+is intended to check against its corresponding phase on
+the left hand side of the V. Here's an example. On the left-hand side of the V-Model, your development team plans unit
+tests to be implemented later. These unit tests are designed to
+make sure that the code you write actually addresses the problem
+you're trying to solve. When in the unit testing phase
+on the right-hand side of the V, these unit tests are then run
+in the code to make sure that, after everything is written
+all your code runs properly. After the tests are run, and
+everything is running smoothly, the team moves on to
+the integration testing phase. So in this way, the right hand side of
+the V, verifies the left hand side. The V model has the same advantages and
+disadvantages of the waterfall model. It's straightforward to apply,
+but it doesn't account for important aspects of software development. Like the inevitability of change. However, the V-model does allow for the development team to verify the work
+of constructive phases of the process. So we're getting somewhere, but
+this client still doesn't get to see the finished product until the very
+end when everything is complete. Study our diagram which depicts the V-model
+of software development. If you are in the integration
+testing phase, which phase are you verifying
+when you run your test? A. unit testing. B. coding. C. high level design. Or D. operational testing. The answer is C, high level design. When you're in the high
+level design phase, you create tests which are then run
+in the integration testing phase. You do not run tests from the next or
+the last phase, or from the coding phase. So, now we need a process which will allow
+us to involve the client along the way instead of only at the end when
+the product is deemed complete. That's where the Sawtooth model comes in. This model is very
+similar to the last two. And that it is also a linear
+model of software development. However, it also improves upon them in that it gives you that much needed
+client interaction throughout the process. What makes the sawtooth model
+distinct is that it distinguishes between the client and
+the development team. In this model,
+tasks requiring the clients presence and tasks only requiring the development
+team are made distinct. These client tasks are interspersed
+throughout the process, so that feedback can be gathered
+at meaningful times. So being similar to the last two concepts,
+you're probably already way ahead of me. Yes, the Sawtooth model also suffers the
+same disadvantages of the last two linear models. It's really easy to apply, but
+it doesn't address change very well. In this lesson, we discussed three
+important pre-agile manifesto process models in the history of software
+development: the Waterfall model, the V-model, and the Sawtooth model. They all share commonalities and
+have their differences. The main thing which these models have in
+common is that they all include phases, which happen sequentially,
+one after another. It's very clear to everyone
+what's expected next. This common feature is the main reason for
+their shared advantages and disadvantages. They each allow development to
+happen in a straightforward way, but they also greatly restrict
+the project to fit the process. In that sense,
+these early linear process models subscribe to a manufacturing
+view of a software product. That is machined and assembled
+according to certain requirements. And once produced, the product only
+requires minor maintenance upkeep. Kinda like an appliance. The emphasis, then, is on getting
+the requirements right, upfront, and not changing them afterwards. In reality, developing a software
+product is a creative endeavor, which necessitates experimentation and
+constant rework. Also, in the past, computer time was
+expensive compared to human labor. The focus was making tasks
+like programming efficient for computers, though not necessarily for
+people. For software development, the cycle
+time between writing a line of code and seeing its result could be hours. This didn't favor having developers
+try small programming experiments to quickly test out their ideas. This did, however, put a focus on trying
+to get things right the first time and avoid re-work. The linear process models fit
+into this early thinking. Nevertheless, when documenting
+the internals of a software product for a new developer. You might still describe
+the project in a linear way, through the phases and
+associated documents. Even though it might have
+followed some other process. This puts on some semblance of order. So that the new developer does not
+need to relive the whole project, just to learn initially about
+its current implementation. This is akin to the clean rational
+version of mathematical proofs and scientific theories you find in textbooks. In the next lesson, I'm going to cover the next generation of
+software processes, iterative models. There, I'll tell you all about a process
+called Spiral and it's advantages. I'll see you there.
